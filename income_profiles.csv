@@ -1,0 +1,1001 @@
+profile_id,age_group,income,income_bracket,education,job_sector,risk_tolerance,investment_goal,investment_horizon,liquidity_needs
+1,46-55,51640,50001-100000,Associate,Technology,0.42,Retirement,13,0.23
+2,46-55,96926,50001-100000,Bachelor,Healthcare,0.52,Retirement,16,0.35
+3,26-35,602945,250001-1000000,Bachelor,Healthcare,0.48,Retirement,33,0.15
+4,46-55,73701,50001-100000,Bachelor,Technology,0.3,Retirement,11,0.34
+5,46-55,142639,100001-250000,Bachelor,Technology,0.45,Wealth Building,15,0.34
+6,46-55,971591,250001-1000000,Master,Manufacturing,0.54,Retirement,16,0.22
+7,36-45,579964,250001-1000000,Master,Government,0.54,Retirement,23,0.15
+8,46-55,204701,100001-250000,PhD,Technology,0.43,Wealth Building,14,0.51
+9,36-45,27082,25001-50000,Bachelor,Education,0.29,Income Generation,13,0.55
+10,26-35,21003,0-25000,High School,Finance,0.59,Retirement,29,0.68
+11,66+,12252,0-25000,Associate,Government,0.38,Retirement,4,0.29
+12,46-55,24923,0-25000,High School,Retail,0.37,Income Generation,27,0.71
+13,66+,76149,50001-100000,Bachelor,Education,0.31,Retirement,3,0.43
+14,56-65,2326,0-25000,High School,Healthcare,0.12,Home Purchase,10,0.42
+15,46-55,848783,250001-1000000,Bachelor,Healthcare,0.41,Wealth Building,21,0.26
+16,46-55,94130,50001-100000,Bachelor,Technology,0.7,Retirement,13,0.41
+17,18-25,15159,0-25000,Bachelor,Retail,0.73,Retirement,35,0.61
+18,56-65,32005,25001-50000,Master,Healthcare,0.14,Income Generation,12,0.27
+19,46-55,86423,50001-100000,Bachelor,Healthcare,0.47,Education,14,0.33
+20,66+,26864,25001-50000,High School,Healthcare,0.34,Retirement,6,0.47
+21,46-55,21540,0-25000,Associate,Construction,0.1,Retirement,12,0.56
+22,56-65,49638,25001-50000,High School,Manufacturing,0.33,Home Purchase,7,0.3
+23,26-35,8004,0-25000,High School,Entertainment,0.58,Income Generation,30,0.52
+24,26-35,93476,50001-100000,Master,Healthcare,0.39,Retirement,28,0.73
+25,56-65,33229,25001-50000,Master,Technology,0.32,Retirement,15,0.4
+26,18-25,57332,50001-100000,Master,Construction,0.63,Home Purchase,9,0.26
+27,56-65,110459,100001-250000,Bachelor,Technology,0.54,Home Purchase,6,0.46
+28,46-55,128337,100001-250000,High School,Healthcare,0.18,Wealth Building,17,0.1
+29,46-55,542684,250001-1000000,Master,Finance,0.58,Retirement,12,0.11
+30,26-35,41759,25001-50000,Master,Healthcare,0.29,Home Purchase,6,0.41
+31,46-55,71640,50001-100000,Bachelor,Technology,0.61,Wealth Building,20,0.36
+32,56-65,13777,0-25000,High School,Government,0.11,Education,9,0.4
+33,36-45,92907,50001-100000,Bachelor,Retail,0.47,Income Generation,15,0.46
+34,36-45,90584,50001-100000,Master,Government,0.52,Retirement,15,0.27
+35,46-55,119092,100001-250000,PhD,Finance,0.53,Education,15,0.44
+36,46-55,235780,100001-250000,Master,Government,0.32,Home Purchase,8,0.45
+37,36-45,42953,25001-50000,Associate,Entertainment,0.37,Wealth Building,18,0.59
+38,36-45,67997,50001-100000,Bachelor,Healthcare,0.1,Retirement,18,0.36
+39,36-45,13594,0-25000,Associate,Retail,0.28,Income Generation,28,0.73
+40,26-35,36527,25001-50000,Associate,Entertainment,0.66,Wealth Building,29,0.65
+41,18-25,15913,0-25000,High School,Retail,0.47,Home Purchase,3,0.76
+42,46-55,55502,50001-100000,High School,Education,0.2,Retirement,15,0.51
+43,36-45,210511,100001-250000,Associate,Technology,0.35,Wealth Building,30,0.1
+44,26-35,65634,50001-100000,Bachelor,Manufacturing,0.26,Wealth Building,15,0.65
+45,18-25,10192,0-25000,High School,Manufacturing,0.41,Retirement,38,0.73
+46,66+,18544,0-25000,High School,Retail,0.18,Education,18,0.5
+47,46-55,40065,25001-50000,Bachelor,Retail,0.55,Wealth Building,27,0.58
+48,36-45,170359,100001-250000,Bachelor,Entertainment,0.37,Wealth Building,28,0.4
+49,18-25,10650,0-25000,High School,Government,0.16,Wealth Building,18,0.53
+50,56-65,7908,0-25000,High School,Government,0.44,Home Purchase,4,0.41
+51,46-55,21756,0-25000,High School,Retail,0.27,Education,9,0.44
+52,26-35,70680,50001-100000,Bachelor,Government,0.4,Home Purchase,7,0.32
+53,36-45,48201,25001-50000,Associate,Agriculture,0.47,Retirement,16,0.68
+54,36-45,39434,25001-50000,PhD,Healthcare,0.24,Home Purchase,5,0.24
+55,26-35,33133,25001-50000,Bachelor,Manufacturing,0.58,Home Purchase,10,0.32
+56,46-55,43633,25001-50000,Bachelor,Retail,0.17,Retirement,18,0.42
+57,26-35,7585,0-25000,High School,Construction,0.31,Retirement,34,0.46
+58,56-65,67409,50001-100000,High School,Healthcare,0.14,Home Purchase,10,0.1
+59,36-45,67842,50001-100000,Bachelor,Technology,0.24,Education,5,0.6
+60,56-65,954939,250001-1000000,Master,Education,0.22,Education,7,0.53
+61,46-55,123919,100001-250000,Bachelor,Healthcare,0.3,Education,9,0.42
+62,46-55,109620,100001-250000,Bachelor,Healthcare,0.62,Home Purchase,10,0.32
+63,36-45,49788,25001-50000,Bachelor,Technology,0.37,Retirement,16,0.72
+64,46-55,25449,25001-50000,High School,Agriculture,0.56,Retirement,17,0.61
+65,56-65,77230,50001-100000,PhD,Healthcare,0.39,Income Generation,13,0.47
+66,26-35,13596,0-25000,Associate,Manufacturing,0.67,Wealth Building,14,0.47
+67,36-45,49998,25001-50000,Bachelor,Finance,0.17,Home Purchase,9,0.73
+68,46-55,46748,25001-50000,Bachelor,Healthcare,0.57,Retirement,11,0.46
+69,56-65,76869,50001-100000,PhD,Technology,0.47,Home Purchase,4,0.55
+70,56-65,48551,25001-50000,Bachelor,Education,0.38,Wealth Building,9,0.43
+71,36-45,56587,50001-100000,Bachelor,Construction,0.37,Retirement,21,0.48
+72,56-65,2587,0-25000,High School,Retail,0.3,Retirement,9,0.47
+73,66+,221964,100001-250000,Master,Technology,0.31,Home Purchase,9,0.44
+74,56-65,37606,25001-50000,High School,Finance,0.27,Wealth Building,5,0.32
+75,66+,98803,50001-100000,Master,Retail,0.41,Wealth Building,8,0.49
+76,46-55,97247,50001-100000,Bachelor,Technology,0.13,Retirement,10,0.48
+77,26-35,9670,0-25000,High School,Education,0.38,Retirement,29,0.67
+78,46-55,130192,100001-250000,Associate,Education,0.19,Wealth Building,22,0.18
+79,18-25,17582,0-25000,High School,Government,0.4,Home Purchase,4,0.59
+80,36-45,86793,50001-100000,Bachelor,Manufacturing,0.52,Wealth Building,30,0.37
+81,66+,569150,250001-1000000,Associate,Technology,0.34,Education,11,0.38
+82,56-65,125958,100001-250000,Master,Entertainment,0.2,Retirement,8,0.45
+83,26-35,2504388,1000001-5000000,Bachelor,Entertainment,0.42,Home Purchase,3,0.35
+84,18-25,18500,0-25000,Bachelor,Retail,0.64,Retirement,44,0.39
+85,18-25,5717,0-25000,Bachelor,Healthcare,0.35,Home Purchase,5,0.43
+86,46-55,28725,25001-50000,Bachelor,Government,0.39,Home Purchase,3,0.51
+87,18-25,52042,50001-100000,Bachelor,Education,0.65,Income Generation,12,0.55
+88,26-35,4135,0-25000,Associate,Retail,0.47,Home Purchase,4,0.76
+89,46-55,156368,100001-250000,PhD,Healthcare,0.58,Wealth Building,20,0.29
+90,46-55,30002,25001-50000,Bachelor,Technology,0.2,Wealth Building,21,0.63
+91,46-55,86805,50001-100000,Bachelor,Education,0.17,Retirement,19,0.35
+92,46-55,30071,25001-50000,Associate,Technology,0.52,Wealth Building,28,0.33
+93,46-55,90746,50001-100000,Bachelor,Technology,0.33,Wealth Building,19,0.57
+94,46-55,4694,0-25000,High School,Healthcare,0.39,Wealth Building,16,0.44
+95,56-65,10211,0-25000,Associate,Retail,0.1,Wealth Building,9,0.47
+96,26-35,77144,50001-100000,Bachelor,Technology,0.48,Wealth Building,25,0.41
+97,18-25,19638,0-25000,High School,Construction,0.79,Retirement,35,0.5
+98,56-65,17451,0-25000,Associate,Entertainment,0.53,Home Purchase,9,0.41
+99,56-65,430223,250001-1000000,Master,Manufacturing,0.51,Home Purchase,4,0.26
+100,46-55,35914,25001-50000,High School,Manufacturing,0.38,Wealth Building,21,0.77
+101,26-35,161937,100001-250000,Bachelor,Technology,0.58,Home Purchase,10,0.75
+102,36-45,90929,50001-100000,PhD,Finance,0.44,Home Purchase,3,0.36
+103,18-25,26233,25001-50000,Master,Technology,0.61,Home Purchase,3,0.38
+104,46-55,71072,50001-100000,Bachelor,Agriculture,0.34,Wealth Building,12,0.4
+105,66+,14344,0-25000,Associate,Retail,0.1,Education,15,0.62
+106,36-45,54320,50001-100000,Bachelor,Finance,0.31,Wealth Building,14,0.79
+107,46-55,37344,25001-50000,Associate,Technology,0.38,Education,10,0.67
+108,18-25,4507,0-25000,High School,Government,0.5,Wealth Building,26,0.32
+109,46-55,134354,100001-250000,Bachelor,Technology,0.55,Income Generation,24,0.17
+110,46-55,79112,50001-100000,Bachelor,Government,0.31,Income Generation,25,0.53
+111,66+,87384,50001-100000,Bachelor,Healthcare,0.24,Income Generation,8,0.49
+112,36-45,21010,0-25000,High School,Construction,0.51,Retirement,17,0.34
+113,56-65,482824,250001-1000000,PhD,Entertainment,0.37,Education,6,0.27
+114,46-55,999422,250001-1000000,Master,Technology,0.12,Wealth Building,14,0.43
+115,18-25,55193,50001-100000,Associate,Technology,0.83,Education,8,0.35
+116,36-45,45409,25001-50000,High School,Construction,0.44,Home Purchase,5,0.36
+117,18-25,21896,0-25000,Master,Healthcare,0.54,Income Generation,27,0.31
+118,18-25,49489,25001-50000,Bachelor,Finance,0.7,Wealth Building,20,0.3
+119,26-35,46064,25001-50000,Bachelor,Education,0.62,Wealth Building,12,0.38
+120,36-45,42795,25001-50000,High School,Manufacturing,0.1,Retirement,20,0.16
+121,46-55,38108,25001-50000,Master,Finance,0.64,Home Purchase,7,0.73
+122,66+,19741,0-25000,High School,Manufacturing,0.1,Retirement,9,0.35
+123,56-65,48817,25001-50000,Associate,Agriculture,0.38,Wealth Building,15,0.73
+124,18-25,29137,25001-50000,Bachelor,Finance,0.47,Home Purchase,8,0.31
+125,36-45,84699,50001-100000,Associate,Healthcare,0.28,Income Generation,13,0.32
+126,26-35,45050,25001-50000,Master,Education,0.37,Education,17,0.75
+127,46-55,36385,25001-50000,Bachelor,Healthcare,0.33,Wealth Building,30,0.32
+128,66+,6585,0-25000,High School,Retail,0.17,Home Purchase,5,0.53
+129,46-55,48493,25001-50000,Bachelor,Government,0.35,Education,15,0.55
+130,66+,16477,0-25000,High School,Healthcare,0.14,Education,10,0.74
+131,26-35,2584,0-25000,Associate,Retail,0.32,Home Purchase,5,0.56
+132,56-65,20462,0-25000,Associate,Entertainment,0.4,Retirement,15,0.59
+133,36-45,18747,0-25000,Associate,Retail,0.46,Income Generation,25,0.16
+134,18-25,39862,25001-50000,High School,Education,0.51,Home Purchase,8,0.37
+135,26-35,40286,25001-50000,Bachelor,Technology,0.65,Income Generation,15,0.52
+136,36-45,16866,0-25000,Bachelor,Retail,0.25,Home Purchase,6,0.52
+137,66+,19579,0-25000,Associate,Retail,0.32,Education,16,0.44
+138,46-55,1676,0-25000,High School,Retail,0.13,Wealth Building,18,0.72
+139,66+,58433,50001-100000,Associate,Government,0.38,Home Purchase,3,0.32
+140,56-65,44866,25001-50000,High School,Construction,0.24,Home Purchase,8,0.45
+141,26-35,43446,25001-50000,Master,Finance,0.6,Wealth Building,30,0.22
+142,46-55,856575,250001-1000000,Master,Finance,0.22,Home Purchase,5,0.41
+143,26-35,95910,50001-100000,High School,Finance,0.19,Education,12,0.29
+144,36-45,84438,50001-100000,PhD,Education,0.49,Wealth Building,30,0.51
+145,26-35,33078,25001-50000,Associate,Construction,0.65,Home Purchase,8,0.69
+146,26-35,68861,50001-100000,Bachelor,Finance,0.43,Wealth Building,21,0.48
+147,66+,171076,100001-250000,Master,Technology,0.4,Retirement,6,0.39
+148,36-45,48507,25001-50000,Bachelor,Technology,0.18,Wealth Building,25,0.44
+149,36-45,586769,250001-1000000,Associate,Education,0.53,Wealth Building,11,0.43
+150,66+,146082,100001-250000,High School,Manufacturing,0.39,Wealth Building,9,0.37
+151,46-55,2193539,1000001-5000000,Master,Finance,0.46,Wealth Building,20,0.1
+152,18-25,6101,0-25000,High School,Manufacturing,0.56,Home Purchase,9,0.67
+153,18-25,21930,0-25000,Master,Retail,0.48,Retirement,39,0.55
+154,56-65,11781,0-25000,High School,Healthcare,0.22,Home Purchase,4,0.46
+155,36-45,751411,250001-1000000,Master,Finance,0.45,Home Purchase,6,0.51
+156,36-45,55366,50001-100000,Bachelor,Finance,0.29,Retirement,22,0.28
+157,56-65,55960,50001-100000,Bachelor,Technology,0.19,Home Purchase,10,0.46
+158,66+,8338,0-25000,Associate,Retail,0.1,Retirement,4,0.74
+159,66+,5897,0-25000,Associate,Agriculture,0.32,Income Generation,11,0.34
+160,46-55,27630,25001-50000,Bachelor,Education,0.45,Retirement,16,0.48
+161,66+,113,0-25000,Master,Retail,0.38,Education,8,0.49
+162,66+,23757,0-25000,High School,Retail,0.71,Wealth Building,8,0.42
+163,56-65,19588,0-25000,Bachelor,Education,0.11,Home Purchase,5,0.5
+164,46-55,183599,100001-250000,Master,Manufacturing,0.4,Home Purchase,5,0.41
+165,56-65,36286,25001-50000,Bachelor,Government,0.26,Retirement,7,0.57
+166,56-65,178837,100001-250000,Associate,Healthcare,0.17,Education,7,0.31
+167,56-65,27591,25001-50000,Master,Technology,0.42,Retirement,14,0.66
+168,46-55,24959,0-25000,Associate,Education,0.27,Wealth Building,25,0.59
+169,66+,10538,0-25000,High School,Retail,0.2,Home Purchase,10,0.45
+170,36-45,638713,250001-1000000,High School,Retail,0.5,Wealth Building,19,0.17
+171,36-45,33053,25001-50000,Bachelor,Retail,0.1,Income Generation,30,0.56
+172,26-35,73081,50001-100000,Bachelor,Education,0.74,Home Purchase,3,0.44
+173,46-55,7167,0-25000,High School,Retail,0.46,Home Purchase,3,0.73
+174,66+,362215,250001-1000000,Master,Technology,0.39,Education,6,0.25
+175,26-35,95695,50001-100000,Bachelor,Government,0.78,Wealth Building,12,0.36
+176,18-25,45865,25001-50000,Associate,Education,0.45,Home Purchase,3,0.56
+177,56-65,2436,0-25000,High School,Retail,0.35,Wealth Building,5,0.73
+178,26-35,27522,25001-50000,Bachelor,Manufacturing,0.77,Home Purchase,5,0.69
+179,66+,24427,0-25000,High School,Retail,0.38,Wealth Building,14,0.38
+180,66+,8956,0-25000,High School,Education,0.27,Retirement,9,0.22
+181,26-35,119270,100001-250000,Bachelor,Finance,0.65,Education,6,0.3
+182,36-45,6140,0-25000,Associate,Retail,0.44,Wealth Building,22,0.29
+183,66+,246680,100001-250000,PhD,Finance,0.2,Retirement,7,0.35
+184,26-35,38799,25001-50000,Bachelor,Finance,0.48,Home Purchase,7,0.24
+185,56-65,199586,100001-250000,Bachelor,Healthcare,0.26,Income Generation,10,0.17
+186,46-55,43871,25001-50000,Associate,Healthcare,0.49,Income Generation,16,0.5
+187,18-25,86052,50001-100000,Bachelor,Construction,0.18,Wealth Building,12,0.35
+188,26-35,65862,50001-100000,Associate,Education,0.44,Home Purchase,9,0.52
+189,46-55,209656,100001-250000,Master,Healthcare,0.65,Home Purchase,4,0.55
+190,46-55,46201,25001-50000,Bachelor,Manufacturing,0.17,Retirement,14,0.17
+191,46-55,95067,50001-100000,Bachelor,Finance,0.57,Home Purchase,3,0.39
+192,26-35,340026,250001-1000000,PhD,Technology,0.47,Retirement,30,0.29
+193,18-25,70901,50001-100000,High School,Retail,0.35,Retirement,38,0.41
+194,66+,38972,25001-50000,Associate,Education,0.1,Education,16,0.49
+195,18-25,75483,50001-100000,Associate,Healthcare,0.8,Home Purchase,5,0.36
+196,66+,21977,0-25000,Associate,Retail,0.32,Home Purchase,8,0.73
+197,66+,177974,100001-250000,Master,Finance,0.27,Retirement,5,0.35
+198,36-45,12573,0-25000,High School,Retail,0.3,Retirement,20,0.73
+199,46-55,102513,100001-250000,Bachelor,Healthcare,0.47,Education,11,0.45
+200,18-25,18526,0-25000,Associate,Manufacturing,0.38,Retirement,44,0.77
+201,46-55,28710,25001-50000,Associate,Education,0.65,Education,11,0.54
+202,36-45,2886315,1000001-5000000,PhD,Technology,0.62,Wealth Building,21,0.49
+203,26-35,45191,25001-50000,Associate,Healthcare,0.3,Retirement,27,0.3
+204,66+,8760,0-25000,Associate,Construction,0.35,Wealth Building,11,0.61
+205,26-35,165452,100001-250000,Bachelor,Technology,0.67,Retirement,29,0.4
+206,36-45,3050,0-25000,Associate,Retail,0.59,Home Purchase,3,0.61
+207,46-55,240097,100001-250000,PhD,Manufacturing,0.44,Retirement,19,0.55
+208,36-45,5176,0-25000,High School,Agriculture,0.15,Retirement,19,0.33
+209,56-65,12184,0-25000,Associate,Healthcare,0.43,Wealth Building,11,0.64
+210,18-25,15624,0-25000,Associate,Retail,0.5,Education,18,0.48
+211,18-25,12552,0-25000,Bachelor,Healthcare,0.47,Education,15,0.51
+212,36-45,78843,50001-100000,Associate,Retail,0.72,Education,6,0.33
+213,36-45,164956,100001-250000,Associate,Finance,0.53,Wealth Building,10,0.61
+214,46-55,41966,25001-50000,Associate,Finance,0.55,Wealth Building,17,0.45
+215,18-25,44462,25001-50000,Master,Technology,0.49,Education,11,0.34
+216,18-25,119135,100001-250000,Associate,Technology,0.71,Home Purchase,9,0.32
+217,46-55,85236,50001-100000,Associate,Finance,0.4,Wealth Building,27,0.29
+218,36-45,117332,100001-250000,Bachelor,Entertainment,0.38,Income Generation,13,0.32
+219,46-55,49304,25001-50000,Associate,Technology,0.38,Home Purchase,5,0.32
+220,56-65,130948,100001-250000,High School,Manufacturing,0.29,Wealth Building,14,0.42
+221,36-45,26817,25001-50000,Bachelor,Finance,0.37,Home Purchase,6,0.27
+222,66+,437655,250001-1000000,PhD,Finance,0.33,Education,9,0.5
+223,66+,22063,0-25000,High School,Entertainment,0.1,Retirement,8,0.3
+224,46-55,34555,25001-50000,Associate,Manufacturing,0.35,Home Purchase,6,0.56
+225,18-25,10977,0-25000,Associate,Entertainment,0.58,Home Purchase,9,0.5
+226,36-45,3984887,1000001-5000000,High School,Technology,0.63,Wealth Building,24,0.28
+227,36-45,498274,250001-1000000,PhD,Entertainment,0.34,Education,9,0.28
+228,66+,11740,0-25000,High School,Manufacturing,0.18,Retirement,7,0.78
+229,18-25,10741,0-25000,Associate,Agriculture,0.48,Retirement,35,0.53
+230,66+,3339,0-25000,High School,Technology,0.16,Home Purchase,7,0.7
+231,18-25,10864,0-25000,Bachelor,Healthcare,0.71,Wealth Building,25,0.39
+232,36-45,9170,0-25000,High School,Retail,0.49,Home Purchase,10,0.34
+233,56-65,6535,0-25000,Associate,Education,0.11,Wealth Building,12,0.52
+234,36-45,776798,250001-1000000,Bachelor,Technology,0.51,Wealth Building,18,0.33
+235,26-35,1669515,1000001-5000000,Master,Technology,0.68,Wealth Building,15,0.1
+236,66+,194053,100001-250000,High School,Finance,0.56,Home Purchase,10,0.36
+237,18-25,1840,0-25000,High School,Retail,0.41,Wealth Building,20,0.56
+238,66+,17245,0-25000,Master,Manufacturing,0.47,Retirement,8,0.39
+239,66+,920319,250001-1000000,Master,Technology,0.17,Retirement,7,0.63
+240,46-55,481626,250001-1000000,Associate,Healthcare,0.38,Education,7,0.55
+241,36-45,72004,50001-100000,Associate,Healthcare,0.29,Retirement,15,0.29
+242,46-55,684131,250001-1000000,Bachelor,Finance,0.24,Wealth Building,30,0.39
+243,26-35,26095,25001-50000,Associate,Agriculture,0.36,Home Purchase,8,0.51
+244,36-45,26016,25001-50000,Bachelor,Manufacturing,0.42,Education,11,0.63
+245,46-55,67385,50001-100000,Associate,Technology,0.33,Home Purchase,8,0.62
+246,18-25,28179,25001-50000,Associate,Healthcare,0.44,Home Purchase,4,0.51
+247,36-45,37500,25001-50000,Bachelor,Healthcare,0.43,Retirement,17,0.65
+248,66+,11265,0-25000,High School,Government,0.18,Education,11,0.76
+249,18-25,9792,0-25000,Bachelor,Government,0.53,Wealth Building,29,0.24
+250,66+,6943,0-25000,High School,Retail,0.47,Income Generation,15,0.28
+251,56-65,48826,25001-50000,High School,Finance,0.28,Retirement,5,0.65
+252,26-35,38750,25001-50000,High School,Manufacturing,0.8,Wealth Building,21,0.58
+253,46-55,87489,50001-100000,High School,Healthcare,0.15,Wealth Building,11,0.18
+254,46-55,53231,50001-100000,Master,Entertainment,0.34,Home Purchase,6,0.32
+255,56-65,13656,0-25000,High School,Retail,0.48,Home Purchase,8,0.67
+256,56-65,10194,0-25000,High School,Government,0.31,Retirement,5,0.38
+257,36-45,988863,250001-1000000,Bachelor,Healthcare,0.14,Wealth Building,17,0.22
+258,46-55,15551,0-25000,High School,Finance,0.42,Education,18,0.9
+259,56-65,159012,100001-250000,Bachelor,Healthcare,0.67,Home Purchase,6,0.1
+260,46-55,48245,25001-50000,Bachelor,Finance,0.33,Home Purchase,9,0.47
+261,56-65,4536990,1000001-5000000,Master,Finance,0.24,Home Purchase,7,0.51
+262,66+,23301,0-25000,Associate,Education,0.27,Retirement,9,0.63
+263,36-45,92953,50001-100000,Associate,Construction,0.35,Home Purchase,6,0.26
+264,46-55,91833,50001-100000,Master,Retail,0.43,Wealth Building,27,0.31
+265,56-65,8475,0-25000,Associate,Construction,0.36,Retirement,11,0.61
+266,36-45,9635,0-25000,High School,Healthcare,0.48,Home Purchase,6,0.5
+267,36-45,34777,25001-50000,Master,Healthcare,0.64,Income Generation,24,0.4
+268,46-55,31862,25001-50000,Associate,Government,0.37,Retirement,16,0.51
+269,18-25,651937,250001-1000000,Master,Finance,0.74,Retirement,45,0.38
+270,26-35,181814,100001-250000,Bachelor,Finance,0.45,Wealth Building,29,0.36
+271,36-45,58769,50001-100000,Master,Finance,0.64,Retirement,18,0.55
+272,56-65,12012,0-25000,Associate,Manufacturing,0.47,Home Purchase,3,0.62
+273,18-25,22601,0-25000,High School,Healthcare,0.29,Retirement,35,0.35
+274,46-55,67694,50001-100000,Bachelor,Education,0.61,Home Purchase,4,0.55
+275,56-65,67236,50001-100000,PhD,Finance,0.35,Home Purchase,10,0.66
+276,66+,2951,0-25000,High School,Government,0.54,Home Purchase,7,0.49
+277,66+,1292,0-25000,High School,Retail,0.23,Wealth Building,5,0.56
+278,56-65,170336,100001-250000,Associate,Manufacturing,0.22,Income Generation,9,0.63
+279,46-55,38820,25001-50000,Bachelor,Technology,0.44,Income Generation,15,0.44
+280,36-45,45032,25001-50000,Associate,Technology,0.72,Income Generation,14,0.44
+281,18-25,215524,100001-250000,Bachelor,Healthcare,0.73,Wealth Building,28,0.42
+282,46-55,604734,250001-1000000,Master,Finance,0.38,Home Purchase,9,0.56
+283,46-55,5142,0-25000,High School,Retail,0.1,Education,9,0.35
+284,56-65,76430,50001-100000,High School,Education,0.35,Home Purchase,4,0.19
+285,18-25,17992,0-25000,High School,Retail,0.54,Home Purchase,10,0.68
+286,66+,7304,0-25000,High School,Government,0.34,Education,6,0.2
+287,66+,11637,0-25000,Master,Manufacturing,0.3,Retirement,10,0.17
+288,26-35,57010,50001-100000,Associate,Technology,0.61,Wealth Building,16,0.46
+289,56-65,45751,25001-50000,Bachelor,Government,0.3,Income Generation,7,0.59
+290,36-45,44174,25001-50000,Bachelor,Construction,0.24,Wealth Building,14,0.15
+291,36-45,71093,50001-100000,Associate,Agriculture,0.66,Retirement,24,0.6
+292,46-55,22986,0-25000,High School,Government,0.37,Retirement,20,0.38
+293,66+,3726660,1000001-5000000,Bachelor,Finance,0.47,Wealth Building,13,0.24
+294,46-55,77360,50001-100000,Master,Education,0.58,Retirement,10,0.37
+295,66+,8748,0-25000,High School,Manufacturing,0.1,Wealth Building,9,0.33
+296,26-35,39831,25001-50000,Master,Retail,0.52,Wealth Building,19,0.5
+297,66+,38651,25001-50000,PhD,Finance,0.32,Retirement,10,0.6
+298,56-65,243292,100001-250000,Bachelor,Finance,0.23,Income Generation,6,0.25
+299,18-25,37361,25001-50000,Associate,Healthcare,0.8,Wealth Building,30,0.54
+300,46-55,43766,25001-50000,High School,Retail,0.52,Home Purchase,5,0.4
+301,66+,7248,0-25000,Associate,Manufacturing,0.32,Home Purchase,3,0.35
+302,56-65,21045,0-25000,Associate,Agriculture,0.38,Income Generation,6,0.44
+303,66+,16936,0-25000,High School,Entertainment,0.24,Wealth Building,8,0.45
+304,46-55,17628,0-25000,Associate,Education,0.4,Wealth Building,13,0.41
+305,18-25,22480,0-25000,High School,Manufacturing,0.67,Home Purchase,7,0.46
+306,18-25,35368,25001-50000,Bachelor,Education,0.63,Wealth Building,28,0.38
+307,26-35,22474,0-25000,High School,Government,0.42,Wealth Building,25,0.39
+308,26-35,85765,50001-100000,Bachelor,Healthcare,0.77,Income Generation,10,0.43
+309,46-55,164,0-25000,High School,Retail,0.21,Wealth Building,21,0.61
+310,66+,20214,0-25000,High School,Education,0.27,Retirement,6,0.61
+311,46-55,29202,25001-50000,Associate,Healthcare,0.24,Home Purchase,7,0.51
+312,66+,70732,50001-100000,Associate,Finance,0.55,Home Purchase,8,0.58
+313,36-45,35010,25001-50000,High School,Manufacturing,0.27,Wealth Building,27,0.16
+314,18-25,97673,50001-100000,High School,Education,0.47,Income Generation,27,0.43
+315,18-25,12861,0-25000,Associate,Government,0.41,Home Purchase,8,0.5
+316,56-65,143475,100001-250000,Associate,Technology,0.4,Wealth Building,7,0.47
+317,46-55,32171,25001-50000,Associate,Healthcare,0.17,Home Purchase,9,0.44
+318,26-35,21250,0-25000,Associate,Retail,0.33,Retirement,31,0.4
+319,36-45,235441,100001-250000,PhD,Technology,0.36,Education,14,0.33
+320,26-35,34202,25001-50000,Associate,Finance,0.54,Retirement,26,0.44
+321,56-65,5283,0-25000,High School,Education,0.1,Retirement,5,0.62
+322,46-55,5899,0-25000,High School,Agriculture,0.64,Wealth Building,19,0.65
+323,56-65,80895,50001-100000,Associate,Government,0.47,Wealth Building,7,0.46
+324,26-35,22465,0-25000,High School,Retail,0.34,Retirement,33,0.69
+325,46-55,29901,25001-50000,Associate,Construction,0.59,Home Purchase,4,0.44
+326,56-65,50079,50001-100000,Bachelor,Manufacturing,0.36,Retirement,11,0.1
+327,46-55,199939,100001-250000,Master,Government,0.63,Education,12,0.1
+328,26-35,33448,25001-50000,Bachelor,Government,0.51,Retirement,28,0.52
+329,36-45,30072,25001-50000,Bachelor,Healthcare,0.46,Home Purchase,6,0.35
+330,46-55,37132,25001-50000,Bachelor,Agriculture,0.48,Education,18,0.56
+331,66+,22915,0-25000,High School,Retail,0.62,Home Purchase,3,0.48
+332,56-65,2622,0-25000,Associate,Construction,0.24,Retirement,5,0.56
+333,66+,21524,0-25000,Associate,Education,0.41,Wealth Building,14,0.61
+334,26-35,44205,25001-50000,High School,Retail,0.71,Wealth Building,27,0.61
+335,36-45,539940,250001-1000000,PhD,Healthcare,0.34,Home Purchase,7,0.25
+336,56-65,33445,25001-50000,Master,Manufacturing,0.42,Wealth Building,12,0.9
+337,26-35,226346,100001-250000,Associate,Finance,0.41,Income Generation,26,0.38
+338,18-25,9413,0-25000,Associate,Entertainment,0.5,Wealth Building,18,0.18
+339,46-55,449406,250001-1000000,Bachelor,Finance,0.56,Retirement,19,0.13
+340,56-65,2571,0-25000,Associate,Retail,0.46,Retirement,10,0.56
+341,46-55,4762290,1000001-5000000,Bachelor,Technology,0.59,Education,7,0.24
+342,56-65,37902,25001-50000,Bachelor,Education,0.13,Education,5,0.52
+343,56-65,11848,0-25000,High School,Retail,0.17,Home Purchase,5,0.5
+344,36-45,74400,50001-100000,Bachelor,Education,0.71,Wealth Building,17,0.5
+345,18-25,24200,0-25000,Bachelor,Education,0.5,Wealth Building,26,0.51
+346,46-55,33224,25001-50000,Bachelor,Finance,0.44,Wealth Building,25,0.54
+347,56-65,43268,25001-50000,Associate,Technology,0.38,Retirement,10,0.36
+348,56-65,217161,100001-250000,Bachelor,Technology,0.41,Retirement,11,0.43
+349,26-35,118703,100001-250000,Bachelor,Healthcare,0.66,Home Purchase,7,0.36
+350,18-25,756,0-25000,High School,Manufacturing,0.75,Retirement,36,0.49
+351,56-65,237359,100001-250000,Associate,Technology,0.1,Wealth Building,9,0.1
+352,26-35,29143,25001-50000,Master,Technology,0.8,Education,12,0.34
+353,46-55,981511,250001-1000000,Master,Healthcare,0.4,Home Purchase,10,0.35
+354,36-45,36986,25001-50000,Associate,Technology,0.45,Retirement,22,0.48
+355,36-45,49756,25001-50000,High School,Education,0.35,Retirement,18,0.4
+356,46-55,30351,25001-50000,Bachelor,Government,0.31,Home Purchase,7,0.23
+357,36-45,208241,100001-250000,Associate,Technology,0.28,Home Purchase,10,0.1
+358,26-35,3351,0-25000,High School,Retail,0.35,Home Purchase,10,0.55
+359,66+,24594,0-25000,High School,Government,0.1,Retirement,9,0.6
+360,46-55,165264,100001-250000,PhD,Technology,0.51,Wealth Building,16,0.33
+361,26-35,35587,25001-50000,Bachelor,Retail,0.5,Home Purchase,6,0.41
+362,26-35,57401,50001-100000,Bachelor,Technology,0.69,Education,5,0.56
+363,18-25,2932,0-25000,High School,Retail,0.57,Education,16,0.51
+364,66+,35379,25001-50000,Bachelor,Government,0.43,Retirement,8,0.53
+365,36-45,23154,0-25000,High School,Retail,0.3,Education,9,0.74
+366,26-35,142034,100001-250000,Bachelor,Technology,0.42,Retirement,33,0.31
+367,66+,11930,0-25000,High School,Government,0.34,Education,15,0.5
+368,36-45,71142,50001-100000,Associate,Technology,0.49,Income Generation,15,0.52
+369,18-25,28236,25001-50000,Bachelor,Finance,0.53,Home Purchase,8,0.2
+370,56-65,6839,0-25000,Bachelor,Entertainment,0.3,Education,18,0.38
+371,46-55,169682,100001-250000,Master,Manufacturing,0.29,Home Purchase,6,0.36
+372,46-55,33152,25001-50000,Master,Manufacturing,0.46,Wealth Building,28,0.38
+373,26-35,56823,50001-100000,Associate,Education,0.44,Income Generation,24,0.55
+374,36-45,97571,50001-100000,Associate,Education,0.37,Wealth Building,21,0.62
+375,18-25,48800,25001-50000,Associate,Technology,0.42,Wealth Building,18,0.67
+376,26-35,87462,50001-100000,High School,Finance,0.34,Home Purchase,7,0.49
+377,46-55,32125,25001-50000,Bachelor,Government,0.5,Income Generation,29,0.49
+378,26-35,200021,100001-250000,Associate,Education,0.3,Education,18,0.63
+379,46-55,102998,100001-250000,Master,Technology,0.44,Home Purchase,6,0.1
+380,56-65,2869050,1000001-5000000,Master,Technology,0.33,Retirement,6,0.23
+381,18-25,33604,25001-50000,Bachelor,Government,0.43,Home Purchase,9,0.5
+382,36-45,98213,50001-100000,Associate,Healthcare,0.39,Home Purchase,9,0.37
+383,46-55,44461,25001-50000,Bachelor,Healthcare,0.17,Wealth Building,29,0.55
+384,46-55,49830,25001-50000,High School,Retail,0.19,Retirement,10,0.24
+385,18-25,40440,25001-50000,Associate,Education,0.37,Retirement,44,0.52
+386,36-45,51206,50001-100000,Master,Education,0.4,Retirement,19,0.19
+387,26-35,21630,0-25000,High School,Manufacturing,0.61,Income Generation,26,0.14
+388,26-35,31109,25001-50000,PhD,Manufacturing,0.56,Income Generation,19,0.38
+389,56-65,11363,0-25000,High School,Manufacturing,0.24,Retirement,5,0.39
+390,18-25,29498,25001-50000,Associate,Agriculture,0.6,Retirement,44,0.61
+391,46-55,31776,25001-50000,Bachelor,Retail,0.3,Wealth Building,26,0.63
+392,56-65,402204,250001-1000000,Master,Technology,0.16,Wealth Building,7,0.1
+393,56-65,70886,50001-100000,Bachelor,Education,0.13,Wealth Building,9,0.29
+394,66+,858,0-25000,Associate,Manufacturing,0.28,Retirement,3,0.38
+395,56-65,41461,25001-50000,Bachelor,Manufacturing,0.2,Home Purchase,6,0.33
+396,66+,532968,250001-1000000,Bachelor,Finance,0.24,Retirement,10,0.66
+397,46-55,212082,100001-250000,High School,Finance,0.36,Home Purchase,3,0.36
+398,56-65,111120,100001-250000,Bachelor,Finance,0.25,Income Generation,8,0.26
+399,36-45,34369,25001-50000,Bachelor,Manufacturing,0.2,Retirement,22,0.24
+400,66+,19183,0-25000,Associate,Healthcare,0.22,Retirement,6,0.37
+401,46-55,60748,50001-100000,High School,Technology,0.36,Home Purchase,5,0.35
+402,46-55,187869,100001-250000,Master,Technology,0.55,Wealth Building,23,0.17
+403,46-55,552809,250001-1000000,Associate,Technology,0.22,Retirement,17,0.5
+404,18-25,16169,0-25000,Associate,Retail,0.48,Home Purchase,7,0.57
+405,36-45,112824,100001-250000,Associate,Healthcare,0.51,Education,5,0.23
+406,46-55,95866,50001-100000,Bachelor,Healthcare,0.38,Income Generation,12,0.5
+407,56-65,117739,100001-250000,Master,Technology,0.37,Wealth Building,10,0.36
+408,18-25,90112,50001-100000,Bachelor,Agriculture,0.56,Wealth Building,29,0.26
+409,46-55,42217,25001-50000,Bachelor,Construction,0.45,Wealth Building,25,0.45
+410,26-35,96438,50001-100000,Associate,Technology,0.45,Wealth Building,16,0.37
+411,26-35,91780,50001-100000,Bachelor,Retail,0.44,Education,10,0.48
+412,46-55,37978,25001-50000,Bachelor,Technology,0.26,Education,12,0.67
+413,36-45,45553,25001-50000,Master,Entertainment,0.39,Income Generation,11,0.57
+414,46-55,70677,50001-100000,High School,Manufacturing,0.32,Home Purchase,9,0.31
+415,56-65,180815,100001-250000,Bachelor,Technology,0.33,Retirement,9,0.25
+416,66+,1225,0-25000,Bachelor,Retail,0.1,Home Purchase,8,0.53
+417,66+,3219,0-25000,Bachelor,Retail,0.23,Home Purchase,7,0.53
+418,26-35,26512,25001-50000,Bachelor,Retail,0.53,Retirement,29,0.49
+419,26-35,67869,50001-100000,Associate,Technology,0.56,Retirement,33,0.35
+420,46-55,68565,50001-100000,Associate,Finance,0.61,Retirement,17,0.37
+421,46-55,48091,25001-50000,Bachelor,Government,0.52,Education,16,0.8
+422,66+,24764,0-25000,Associate,Healthcare,0.52,Retirement,10,0.36
+423,26-35,20215,0-25000,High School,Education,0.61,Wealth Building,20,0.49
+424,36-45,36517,25001-50000,Master,Healthcare,0.36,Home Purchase,4,0.32
+425,46-55,239657,100001-250000,Master,Technology,0.35,Home Purchase,8,0.1
+426,46-55,39266,25001-50000,Associate,Retail,0.12,Wealth Building,28,0.55
+427,46-55,71324,50001-100000,Master,Healthcare,0.53,Home Purchase,4,0.32
+428,46-55,99479,50001-100000,High School,Technology,0.19,Education,12,0.15
+429,46-55,43687,25001-50000,Bachelor,Construction,0.44,Home Purchase,7,0.31
+430,56-65,14146,0-25000,High School,Manufacturing,0.25,Home Purchase,5,0.49
+431,56-65,36806,25001-50000,Associate,Agriculture,0.38,Retirement,7,0.56
+432,18-25,29450,25001-50000,Bachelor,Education,0.48,Home Purchase,5,0.43
+433,46-55,200851,100001-250000,Bachelor,Finance,0.55,Retirement,14,0.3
+434,46-55,26241,25001-50000,Bachelor,Technology,0.37,Retirement,14,0.44
+435,36-45,123186,100001-250000,Master,Finance,0.62,Home Purchase,7,0.65
+436,36-45,25354,25001-50000,Bachelor,Education,0.54,Income Generation,19,0.39
+437,56-65,568842,250001-1000000,Master,Technology,0.39,Retirement,14,0.1
+438,66+,2518,0-25000,High School,Healthcare,0.1,Retirement,5,0.56
+439,18-25,22962,0-25000,High School,Retail,0.61,Education,16,0.54
+440,18-25,72615,50001-100000,Associate,Government,0.33,Home Purchase,6,0.29
+441,36-45,29757,25001-50000,Bachelor,Healthcare,0.56,Education,15,0.46
+442,36-45,171458,100001-250000,Bachelor,Technology,0.54,Wealth Building,17,0.5
+443,56-65,11056,0-25000,PhD,Manufacturing,0.15,Home Purchase,10,0.36
+444,18-25,1115,0-25000,High School,Construction,0.74,Income Generation,30,0.23
+445,46-55,46231,25001-50000,PhD,Entertainment,0.47,Home Purchase,10,0.6
+446,46-55,46876,25001-50000,Associate,Healthcare,0.33,Retirement,12,0.42
+447,46-55,889948,250001-1000000,Master,Technology,0.47,Home Purchase,10,0.36
+448,56-65,18721,0-25000,Associate,Technology,0.31,Retirement,15,0.47
+449,46-55,37824,25001-50000,Bachelor,Construction,0.38,Wealth Building,12,0.46
+450,26-35,755484,250001-1000000,Master,Agriculture,0.49,Retirement,26,0.1
+451,46-55,40062,25001-50000,Associate,Healthcare,0.81,Wealth Building,19,0.5
+452,36-45,20735,0-25000,High School,Technology,0.29,Wealth Building,30,0.39
+453,66+,217784,100001-250000,High School,Healthcare,0.15,Education,17,0.43
+454,26-35,812626,250001-1000000,Master,Entertainment,0.62,Income Generation,11,0.11
+455,18-25,20731,0-25000,High School,Government,0.49,Home Purchase,4,0.5
+456,36-45,6640,0-25000,Bachelor,Agriculture,0.49,Income Generation,28,0.52
+457,56-65,473590,250001-1000000,Master,Healthcare,0.28,Education,13,0.19
+458,18-25,58741,50001-100000,Master,Manufacturing,0.56,Retirement,45,0.43
+459,46-55,81196,50001-100000,Associate,Manufacturing,0.4,Income Generation,29,0.52
+460,66+,90112,50001-100000,Bachelor,Government,0.23,Home Purchase,8,0.4
+461,26-35,63639,50001-100000,Associate,Government,0.49,Wealth Building,11,0.22
+462,26-35,8237,0-25000,Bachelor,Government,0.61,Retirement,32,0.54
+463,66+,22179,0-25000,High School,Healthcare,0.16,Education,11,0.52
+464,56-65,32084,25001-50000,Bachelor,Finance,0.1,Home Purchase,6,0.41
+465,26-35,68390,50001-100000,Master,Education,0.38,Wealth Building,29,0.44
+466,66+,13490,0-25000,High School,Agriculture,0.39,Retirement,6,0.39
+467,66+,19391,0-25000,Bachelor,Construction,0.25,Income Generation,13,0.24
+468,56-65,47828,25001-50000,Bachelor,Healthcare,0.35,Wealth Building,8,0.32
+469,18-25,55947,50001-100000,Bachelor,Healthcare,0.53,Home Purchase,10,0.28
+470,46-55,40215,25001-50000,High School,Manufacturing,0.27,Home Purchase,9,0.67
+471,46-55,87699,50001-100000,Bachelor,Technology,0.8,Retirement,17,0.45
+472,56-65,18310,0-25000,Associate,Government,0.17,Home Purchase,10,0.75
+473,56-65,154997,100001-250000,Master,Healthcare,0.59,Education,6,0.29
+474,36-45,29021,25001-50000,Bachelor,Government,0.62,Education,8,0.64
+475,26-35,5859,0-25000,Master,Healthcare,0.29,Home Purchase,3,0.51
+476,46-55,39545,25001-50000,High School,Healthcare,0.55,Education,10,0.64
+477,46-55,46819,25001-50000,Master,Education,0.34,Wealth Building,15,0.55
+478,46-55,34442,25001-50000,High School,Finance,0.35,Income Generation,27,0.73
+479,26-35,60059,50001-100000,High School,Agriculture,0.52,Education,13,0.56
+480,46-55,1620524,1000001-5000000,Master,Technology,0.41,Retirement,15,0.27
+481,36-45,69370,50001-100000,Associate,Construction,0.23,Income Generation,24,0.35
+482,26-35,26314,25001-50000,Bachelor,Finance,0.33,Education,10,0.48
+483,36-45,541428,250001-1000000,Associate,Manufacturing,0.68,Home Purchase,3,0.46
+484,26-35,14012,0-25000,High School,Manufacturing,0.56,Income Generation,24,0.22
+485,56-65,2777682,1000001-5000000,Bachelor,Manufacturing,0.43,Education,10,0.32
+486,36-45,33957,25001-50000,Bachelor,Retail,0.51,Retirement,19,0.46
+487,46-55,179670,100001-250000,Master,Technology,0.52,Education,18,0.39
+488,36-45,68854,50001-100000,Bachelor,Retail,0.38,Retirement,24,0.55
+489,46-55,66903,50001-100000,Bachelor,Retail,0.2,Home Purchase,5,0.42
+490,26-35,47718,25001-50000,Associate,Healthcare,0.24,Education,9,0.57
+491,26-35,45580,25001-50000,High School,Government,0.55,Wealth Building,19,0.26
+492,46-55,42512,25001-50000,Master,Technology,0.4,Home Purchase,5,0.33
+493,66+,6174,0-25000,Associate,Retail,0.44,Wealth Building,11,0.49
+494,46-55,104556,100001-250000,Bachelor,Healthcare,0.53,Education,5,0.42
+495,18-25,22748,0-25000,High School,Healthcare,0.73,Retirement,41,0.66
+496,66+,3896,0-25000,High School,Manufacturing,0.1,Home Purchase,5,0.55
+497,66+,24451,0-25000,Bachelor,Manufacturing,0.1,Wealth Building,8,0.5
+498,46-55,103666,100001-250000,Master,Entertainment,0.1,Retirement,13,0.33
+499,66+,22070,0-25000,High School,Manufacturing,0.21,Retirement,8,0.62
+500,36-45,10751,0-25000,High School,Retail,0.59,Wealth Building,17,0.52
+501,56-65,149489,100001-250000,PhD,Manufacturing,0.57,Retirement,12,0.42
+502,18-25,47169,25001-50000,High School,Education,0.54,Income Generation,15,0.35
+503,36-45,1514902,1000001-5000000,Bachelor,Healthcare,0.79,Home Purchase,9,0.14
+504,46-55,758070,250001-1000000,Associate,Healthcare,0.24,Retirement,10,0.5
+505,36-45,60010,50001-100000,Bachelor,Government,0.54,Home Purchase,6,0.29
+506,36-45,42775,25001-50000,Master,Education,0.24,Education,18,0.39
+507,56-65,18240,0-25000,Associate,Construction,0.16,Education,12,0.66
+508,46-55,43147,25001-50000,Bachelor,Education,0.57,Education,14,0.4
+509,26-35,12006,0-25000,Associate,Technology,0.61,Retirement,30,0.48
+510,56-65,7688,0-25000,Associate,Construction,0.15,Education,13,0.42
+511,46-55,248911,100001-250000,Bachelor,Technology,0.41,Education,11,0.3
+512,46-55,47639,25001-50000,Associate,Education,0.48,Home Purchase,9,0.24
+513,56-65,1315920,1000001-5000000,Master,Technology,0.38,Wealth Building,6,0.38
+514,18-25,67916,50001-100000,Master,Education,0.2,Wealth Building,19,0.4
+515,26-35,70536,50001-100000,Bachelor,Manufacturing,0.45,Retirement,35,0.78
+516,46-55,63957,50001-100000,Master,Construction,0.25,Wealth Building,23,0.26
+517,26-35,32877,25001-50000,Bachelor,Finance,0.46,Wealth Building,12,0.67
+518,56-65,9405,0-25000,High School,Retail,0.27,Retirement,9,0.48
+519,56-65,46199,25001-50000,Associate,Healthcare,0.2,Home Purchase,10,0.6
+520,66+,2083,0-25000,High School,Manufacturing,0.29,Income Generation,7,0.34
+521,36-45,28954,25001-50000,Master,Construction,0.6,Wealth Building,17,0.56
+522,46-55,44148,25001-50000,Master,Retail,0.54,Retirement,14,0.43
+523,36-45,82137,50001-100000,Bachelor,Technology,0.48,Retirement,17,0.28
+524,46-55,105525,100001-250000,PhD,Technology,0.75,Retirement,14,0.37
+525,66+,630482,250001-1000000,Master,Finance,0.23,Retirement,7,0.39
+526,66+,142003,100001-250000,Master,Government,0.45,Retirement,10,0.34
+527,56-65,210721,100001-250000,Master,Manufacturing,0.48,Education,16,0.66
+528,46-55,25897,25001-50000,Bachelor,Healthcare,0.35,Retirement,20,0.33
+529,46-55,8179,0-25000,Master,Entertainment,0.61,Education,18,0.58
+530,46-55,71469,50001-100000,Associate,Education,0.74,Income Generation,16,0.1
+531,36-45,20250,0-25000,High School,Healthcare,0.19,Home Purchase,4,0.41
+532,36-45,529134,250001-1000000,Master,Technology,0.73,Income Generation,19,0.37
+533,18-25,4782,0-25000,Master,Education,0.51,Home Purchase,10,0.3
+534,56-65,204217,100001-250000,Master,Finance,0.46,Retirement,5,0.29
+535,66+,885830,250001-1000000,PhD,Finance,0.19,Education,15,0.34
+536,36-45,16506,0-25000,High School,Retail,0.38,Education,12,0.62
+537,36-45,10256,0-25000,High School,Government,0.36,Home Purchase,10,0.29
+538,18-25,41218,25001-50000,Associate,Retail,0.52,Wealth Building,14,0.57
+539,66+,16670,0-25000,Associate,Retail,0.13,Retirement,3,0.34
+540,56-65,361223,250001-1000000,Bachelor,Technology,0.64,Home Purchase,3,0.25
+541,36-45,79695,50001-100000,Bachelor,Retail,0.73,Retirement,25,0.12
+542,66+,85859,50001-100000,Associate,Finance,0.4,Wealth Building,9,0.27
+543,66+,181292,100001-250000,Master,Healthcare,0.17,Retirement,9,0.34
+544,36-45,49789,25001-50000,Associate,Healthcare,0.46,Home Purchase,6,0.58
+545,46-55,802892,250001-1000000,Master,Technology,0.27,Home Purchase,5,0.37
+546,26-35,14015,0-25000,High School,Healthcare,0.43,Wealth Building,28,0.62
+547,18-25,82994,50001-100000,Bachelor,Education,0.35,Wealth Building,20,0.44
+548,56-65,90883,50001-100000,Associate,Construction,0.44,Retirement,9,0.41
+549,56-65,5627,0-25000,High School,Retail,0.46,Wealth Building,9,0.39
+550,56-65,75887,50001-100000,High School,Technology,0.4,Retirement,15,0.28
+551,36-45,241187,100001-250000,Bachelor,Healthcare,0.46,Retirement,22,0.58
+552,36-45,163604,100001-250000,Master,Manufacturing,0.6,Income Generation,25,0.5
+553,18-25,69057,50001-100000,Associate,Education,0.47,Retirement,40,0.42
+554,26-35,81021,50001-100000,Bachelor,Manufacturing,0.48,Retirement,32,0.35
+555,26-35,22445,0-25000,Associate,Entertainment,0.51,Retirement,31,0.76
+556,46-55,80955,50001-100000,Master,Manufacturing,0.19,Wealth Building,14,0.3
+557,56-65,38631,25001-50000,Bachelor,Healthcare,0.29,Wealth Building,7,0.4
+558,36-45,7343,0-25000,PhD,Government,0.74,Home Purchase,4,0.47
+559,66+,129080,100001-250000,Master,Finance,0.36,Retirement,6,0.25
+560,56-65,49005,25001-50000,Associate,Finance,0.42,Retirement,5,0.11
+561,26-35,41549,25001-50000,Associate,Retail,0.42,Retirement,31,0.54
+562,56-65,38413,25001-50000,PhD,Education,0.29,Wealth Building,13,0.65
+563,18-25,87655,50001-100000,Bachelor,Retail,0.64,Retirement,45,0.81
+564,56-65,70559,50001-100000,High School,Healthcare,0.42,Wealth Building,12,0.73
+565,46-55,90514,50001-100000,Bachelor,Entertainment,0.53,Retirement,11,0.22
+566,56-65,98501,50001-100000,Bachelor,Education,0.2,Education,17,0.44
+567,46-55,241541,100001-250000,Bachelor,Education,0.33,Education,17,0.39
+568,18-25,24145,0-25000,High School,Education,0.65,Wealth Building,30,0.77
+569,26-35,9804,0-25000,Associate,Government,0.62,Home Purchase,4,0.39
+570,46-55,194705,100001-250000,Associate,Healthcare,0.39,Education,12,0.27
+571,46-55,76395,50001-100000,Bachelor,Finance,0.28,Education,16,0.62
+572,36-45,4455318,1000001-5000000,Master,Healthcare,0.17,Home Purchase,4,0.34
+573,66+,5139,0-25000,High School,Agriculture,0.29,Retirement,7,0.4
+574,56-65,137262,100001-250000,Bachelor,Entertainment,0.3,Retirement,5,0.2
+575,46-55,209465,100001-250000,Bachelor,Healthcare,0.35,Wealth Building,29,0.24
+576,36-45,99918,50001-100000,Bachelor,Entertainment,0.23,Wealth Building,23,0.11
+577,66+,26502,25001-50000,Master,Retail,0.58,Wealth Building,14,0.6
+578,26-35,46141,25001-50000,Bachelor,Healthcare,0.56,Retirement,33,0.3
+579,56-65,131532,100001-250000,Master,Entertainment,0.31,Wealth Building,14,0.28
+580,46-55,76333,50001-100000,Bachelor,Construction,0.35,Retirement,15,0.37
+581,36-45,3272387,1000001-5000000,Associate,Technology,0.34,Education,5,0.29
+582,26-35,1916,0-25000,High School,Healthcare,0.59,Income Generation,13,0.35
+583,36-45,65499,50001-100000,Bachelor,Finance,0.44,Home Purchase,6,0.43
+584,56-65,18176,0-25000,High School,Retail,0.21,Home Purchase,8,0.51
+585,66+,13885,0-25000,Associate,Technology,0.35,Retirement,10,0.42
+586,56-65,73031,50001-100000,Associate,Government,0.28,Home Purchase,7,0.71
+587,46-55,4683771,1000001-5000000,Master,Entertainment,0.32,Education,17,0.32
+588,36-45,71079,50001-100000,Bachelor,Manufacturing,0.39,Wealth Building,23,0.45
+589,36-45,37871,25001-50000,Bachelor,Manufacturing,0.7,Wealth Building,21,0.64
+590,26-35,75347,50001-100000,Bachelor,Retail,0.27,Income Generation,24,0.61
+591,18-25,62551,50001-100000,Bachelor,Finance,0.63,Home Purchase,3,0.47
+592,26-35,20920,0-25000,Bachelor,Retail,0.47,Wealth Building,28,0.61
+593,18-25,19272,0-25000,High School,Manufacturing,0.52,Home Purchase,6,0.59
+594,66+,100513,100001-250000,Master,Entertainment,0.15,Home Purchase,3,0.48
+595,46-55,13764,0-25000,High School,Manufacturing,0.1,Wealth Building,17,0.71
+596,18-25,8191,0-25000,High School,Healthcare,0.53,Education,14,0.62
+597,56-65,36168,25001-50000,Master,Education,0.27,Home Purchase,4,0.53
+598,66+,1988,0-25000,High School,Construction,0.48,Retirement,3,0.36
+599,18-25,22202,0-25000,High School,Entertainment,0.43,Education,17,0.35
+600,36-45,126550,100001-250000,PhD,Education,0.47,Retirement,15,0.38
+601,66+,150755,100001-250000,Associate,Finance,0.24,Home Purchase,6,0.12
+602,46-55,46356,25001-50000,Associate,Entertainment,0.46,Education,9,0.52
+603,66+,16616,0-25000,Associate,Healthcare,0.31,Retirement,10,0.54
+604,46-55,71998,50001-100000,Bachelor,Healthcare,0.35,Retirement,10,0.52
+605,26-35,31985,25001-50000,Bachelor,Agriculture,0.32,Retirement,25,0.41
+606,18-25,3774,0-25000,High School,Retail,0.67,Income Generation,16,0.41
+607,36-45,145688,100001-250000,Master,Technology,0.55,Wealth Building,13,0.3
+608,56-65,37113,25001-50000,Bachelor,Construction,0.21,Education,11,0.28
+609,36-45,185900,100001-250000,Master,Technology,0.28,Home Purchase,6,0.62
+610,36-45,117007,100001-250000,Bachelor,Government,0.57,Home Purchase,8,0.47
+611,36-45,41214,25001-50000,Bachelor,Manufacturing,0.65,Retirement,22,0.6
+612,46-55,37357,25001-50000,Master,Finance,0.41,Retirement,18,0.36
+613,36-45,45354,25001-50000,Bachelor,Education,0.37,Retirement,17,0.43
+614,26-35,2700,0-25000,Associate,Retail,0.31,Retirement,26,0.42
+615,36-45,47122,25001-50000,Associate,Government,0.49,Wealth Building,14,0.41
+616,18-25,92947,50001-100000,Bachelor,Agriculture,0.3,Retirement,43,0.45
+617,36-45,40120,25001-50000,High School,Government,0.1,Education,12,0.26
+618,56-65,46590,25001-50000,Associate,Education,0.41,Wealth Building,13,0.33
+619,56-65,52111,50001-100000,Associate,Agriculture,0.23,Home Purchase,9,0.34
+620,26-35,3559,0-25000,Master,Retail,0.42,Wealth Building,15,0.5
+621,26-35,12644,0-25000,High School,Retail,0.46,Wealth Building,23,0.34
+622,66+,75494,50001-100000,Master,Technology,0.18,Wealth Building,12,0.19
+623,36-45,31652,25001-50000,Bachelor,Healthcare,0.25,Wealth Building,26,0.35
+624,46-55,40162,25001-50000,Bachelor,Healthcare,0.57,Wealth Building,19,0.29
+625,36-45,208804,100001-250000,PhD,Finance,0.37,Retirement,16,0.1
+626,26-35,5175,0-25000,Associate,Manufacturing,0.53,Home Purchase,4,0.42
+627,18-25,16582,0-25000,High School,Retail,0.58,Education,18,0.28
+628,56-65,21964,0-25000,High School,Healthcare,0.32,Income Generation,7,0.49
+629,56-65,591,0-25000,High School,Healthcare,0.37,Wealth Building,5,0.55
+630,46-55,32100,25001-50000,Master,Education,0.38,Home Purchase,4,0.41
+631,18-25,152,0-25000,High School,Education,0.76,Retirement,45,0.4
+632,56-65,28529,25001-50000,Associate,Manufacturing,0.82,Education,6,0.37
+633,36-45,25492,25001-50000,Associate,Finance,0.42,Wealth Building,30,0.48
+634,36-45,207767,100001-250000,Master,Construction,0.26,Income Generation,28,0.51
+635,26-35,3909676,1000001-5000000,Bachelor,Education,0.6,Retirement,32,0.17
+636,56-65,19250,0-25000,High School,Technology,0.38,Retirement,8,0.53
+637,26-35,34720,25001-50000,Associate,Manufacturing,0.23,Income Generation,24,0.54
+638,66+,21089,0-25000,High School,Government,0.13,Wealth Building,8,0.63
+639,18-25,17672,0-25000,Bachelor,Agriculture,0.78,Retirement,43,0.42
+640,18-25,16110,0-25000,High School,Retail,0.38,Retirement,43,0.43
+641,26-35,70413,50001-100000,Associate,Education,0.53,Home Purchase,6,0.13
+642,26-35,11782,0-25000,High School,Retail,0.46,Wealth Building,25,0.3
+643,46-55,178704,100001-250000,Bachelor,Finance,0.3,Home Purchase,10,0.34
+644,66+,420,0-25000,Associate,Manufacturing,0.22,Education,11,0.49
+645,56-65,76791,50001-100000,PhD,Technology,0.65,Education,15,0.56
+646,46-55,77790,50001-100000,Associate,Technology,0.61,Wealth Building,30,0.17
+647,36-45,404526,250001-1000000,Master,Entertainment,0.69,Income Generation,22,0.42
+648,36-45,47671,25001-50000,PhD,Retail,0.41,Education,6,0.61
+649,26-35,29677,25001-50000,Associate,Retail,0.31,Retirement,33,0.42
+650,36-45,30781,25001-50000,Bachelor,Healthcare,0.37,Retirement,17,0.55
+651,46-55,4655821,1000001-5000000,Master,Finance,0.58,Retirement,11,0.16
+652,36-45,81320,50001-100000,Bachelor,Technology,0.66,Retirement,23,0.52
+653,26-35,49949,25001-50000,Bachelor,Government,0.53,Wealth Building,20,0.42
+654,56-65,35822,25001-50000,High School,Entertainment,0.16,Income Generation,5,0.65
+655,66+,22913,0-25000,High School,Retail,0.62,Home Purchase,6,0.67
+656,66+,52999,50001-100000,Bachelor,Retail,0.17,Wealth Building,6,0.62
+657,56-65,95843,50001-100000,Bachelor,Healthcare,0.26,Home Purchase,3,0.24
+658,26-35,40297,25001-50000,Bachelor,Technology,0.54,Retirement,26,0.39
+659,66+,10698,0-25000,Associate,Education,0.14,Wealth Building,6,0.57
+660,56-65,187242,100001-250000,PhD,Education,0.46,Education,15,0.43
+661,36-45,161176,100001-250000,Associate,Technology,0.3,Wealth Building,22,0.11
+662,36-45,211071,100001-250000,Bachelor,Finance,0.63,Home Purchase,4,0.29
+663,56-65,29742,25001-50000,Associate,Healthcare,0.38,Retirement,5,0.49
+664,36-45,1517846,1000001-5000000,Master,Finance,0.56,Retirement,15,0.44
+665,56-65,155211,100001-250000,PhD,Technology,0.47,Wealth Building,7,0.22
+666,46-55,4178084,1000001-5000000,Associate,Finance,0.56,Retirement,19,0.41
+667,26-35,87825,50001-100000,Bachelor,Healthcare,0.39,Wealth Building,30,0.46
+668,46-55,1619103,1000001-5000000,PhD,Finance,0.4,Income Generation,13,0.3
+669,26-35,7892,0-25000,High School,Retail,0.12,Wealth Building,12,0.55
+670,18-25,74073,50001-100000,High School,Technology,0.9,Retirement,44,0.64
+671,46-55,56197,50001-100000,Associate,Education,0.46,Home Purchase,8,0.49
+672,46-55,105177,100001-250000,Master,Education,0.44,Wealth Building,27,0.61
+673,18-25,24673,0-25000,Associate,Healthcare,0.82,Retirement,40,0.39
+674,18-25,5282,0-25000,High School,Government,0.55,Retirement,39,0.57
+675,36-45,95555,50001-100000,Master,Agriculture,0.52,Wealth Building,11,0.32
+676,66+,7052,0-25000,Associate,Education,0.22,Home Purchase,7,0.32
+677,18-25,14944,0-25000,High School,Retail,0.61,Retirement,45,0.56
+678,46-55,46539,25001-50000,Bachelor,Healthcare,0.51,Wealth Building,22,0.23
+679,18-25,20977,0-25000,Bachelor,Government,0.46,Income Generation,17,0.47
+680,46-55,434268,250001-1000000,PhD,Finance,0.54,Education,18,0.22
+681,18-25,1571,0-25000,Bachelor,Manufacturing,0.37,Income Generation,27,0.61
+682,26-35,44409,25001-50000,High School,Education,0.37,Education,5,0.75
+683,46-55,33163,25001-50000,Bachelor,Education,0.36,Home Purchase,7,0.69
+684,36-45,64993,50001-100000,Master,Construction,0.43,Retirement,16,0.54
+685,66+,25351,25001-50000,Bachelor,Education,0.4,Home Purchase,4,0.39
+686,56-65,257645,250001-1000000,Master,Finance,0.14,Income Generation,13,0.35
+687,46-55,30523,25001-50000,Master,Education,0.32,Wealth Building,26,0.41
+688,36-45,30587,25001-50000,High School,Construction,0.28,Wealth Building,13,0.35
+689,56-65,73,0-25000,Associate,Education,0.52,Retirement,14,0.26
+690,18-25,3511,0-25000,Bachelor,Education,0.48,Home Purchase,5,0.24
+691,26-35,21516,0-25000,High School,Manufacturing,0.13,Home Purchase,4,0.48
+692,36-45,50381,50001-100000,Master,Healthcare,0.36,Income Generation,15,0.21
+693,46-55,47340,25001-50000,Associate,Government,0.57,Income Generation,22,0.54
+694,46-55,25448,25001-50000,Associate,Retail,0.48,Retirement,11,0.54
+695,18-25,16752,0-25000,High School,Healthcare,0.3,Wealth Building,23,0.24
+696,46-55,231684,100001-250000,Bachelor,Retail,0.46,Retirement,10,0.28
+697,56-65,578,0-25000,High School,Healthcare,0.27,Home Purchase,6,0.42
+698,18-25,46099,25001-50000,High School,Finance,0.58,Retirement,44,0.32
+699,36-45,631243,250001-1000000,Associate,Finance,0.68,Retirement,20,0.45
+700,46-55,65615,50001-100000,Associate,Finance,0.46,Home Purchase,6,0.26
+701,56-65,17910,0-25000,High School,Retail,0.44,Retirement,8,0.43
+702,66+,246892,100001-250000,PhD,Healthcare,0.15,Income Generation,13,0.44
+703,26-35,4224,0-25000,Master,Healthcare,0.64,Home Purchase,4,0.15
+704,36-45,37788,25001-50000,Associate,Healthcare,0.31,Wealth Building,26,0.41
+705,56-65,34943,25001-50000,Associate,Healthcare,0.2,Home Purchase,3,0.38
+706,46-55,113506,100001-250000,Bachelor,Manufacturing,0.43,Education,10,0.48
+707,26-35,20037,0-25000,Master,Retail,0.28,Wealth Building,18,0.9
+708,56-65,127904,100001-250000,Master,Entertainment,0.21,Home Purchase,10,0.25
+709,36-45,99342,50001-100000,Bachelor,Retail,0.43,Home Purchase,5,0.34
+710,36-45,18666,0-25000,Associate,Retail,0.27,Home Purchase,5,0.35
+711,26-35,672057,250001-1000000,Master,Finance,0.75,Education,6,0.66
+712,26-35,52867,50001-100000,Bachelor,Healthcare,0.79,Wealth Building,10,0.49
+713,26-35,63260,50001-100000,Bachelor,Entertainment,0.62,Home Purchase,3,0.42
+714,56-65,25695,25001-50000,High School,Healthcare,0.33,Retirement,5,0.34
+715,26-35,34400,25001-50000,Master,Finance,0.38,Retirement,29,0.35
+716,66+,2778,0-25000,Associate,Education,0.28,Wealth Building,7,0.82
+717,36-45,68810,50001-100000,High School,Construction,0.71,Retirement,17,0.48
+718,56-65,14637,0-25000,Associate,Retail,0.1,Income Generation,9,0.36
+719,26-35,12616,0-25000,High School,Retail,0.49,Income Generation,17,0.43
+720,36-45,41142,25001-50000,Master,Finance,0.48,Home Purchase,4,0.8
+721,66+,312472,250001-1000000,Bachelor,Manufacturing,0.42,Home Purchase,9,0.1
+722,18-25,4515,0-25000,Associate,Healthcare,0.71,Education,16,0.26
+723,56-65,44462,25001-50000,High School,Finance,0.41,Retirement,12,0.7
+724,36-45,69629,50001-100000,Bachelor,Education,0.55,Retirement,15,0.35
+725,46-55,726365,250001-1000000,Master,Government,0.45,Education,9,0.55
+726,56-65,1524848,1000001-5000000,Bachelor,Technology,0.25,Income Generation,14,0.24
+727,26-35,74935,50001-100000,Master,Manufacturing,0.43,Retirement,30,0.23
+728,26-35,27141,25001-50000,High School,Construction,0.37,Income Generation,17,0.49
+729,18-25,111975,100001-250000,Associate,Healthcare,0.8,Education,16,0.31
+730,36-45,71714,50001-100000,Bachelor,Technology,0.55,Home Purchase,10,0.55
+731,56-65,4965,0-25000,High School,Retail,0.45,Retirement,15,0.17
+732,46-55,3103947,1000001-5000000,Master,Finance,0.63,Wealth Building,20,0.11
+733,56-65,291957,250001-1000000,Master,Healthcare,0.2,Retirement,14,0.37
+734,56-65,137388,100001-250000,Bachelor,Retail,0.37,Retirement,7,0.1
+735,26-35,27331,25001-50000,Bachelor,Healthcare,0.48,Wealth Building,30,0.69
+736,36-45,34393,25001-50000,Master,Construction,0.3,Wealth Building,20,0.35
+737,56-65,33613,25001-50000,PhD,Technology,0.61,Home Purchase,4,0.39
+738,26-35,27392,25001-50000,Master,Retail,0.42,Home Purchase,4,0.54
+739,36-45,35397,25001-50000,Bachelor,Healthcare,0.51,Home Purchase,5,0.28
+740,46-55,4247254,1000001-5000000,PhD,Healthcare,0.44,Retirement,20,0.22
+741,18-25,4644,0-25000,High School,Manufacturing,0.9,Home Purchase,5,0.66
+742,36-45,143132,100001-250000,PhD,Healthcare,0.53,Income Generation,23,0.23
+743,46-55,25326,25001-50000,Master,Healthcare,0.53,Retirement,10,0.28
+744,18-25,10368,0-25000,Master,Retail,0.54,Home Purchase,10,0.58
+745,66+,24435,0-25000,High School,Retail,0.11,Education,15,0.52
+746,36-45,104245,100001-250000,Bachelor,Manufacturing,0.28,Income Generation,23,0.31
+747,66+,42144,25001-50000,Associate,Construction,0.26,Home Purchase,9,0.25
+748,46-55,78672,50001-100000,Bachelor,Construction,0.57,Home Purchase,10,0.4
+749,26-35,77568,50001-100000,Bachelor,Manufacturing,0.68,Wealth Building,24,0.28
+750,36-45,98573,50001-100000,Master,Government,0.47,Wealth Building,19,0.37
+751,18-25,684695,250001-1000000,High School,Education,0.75,Wealth Building,20,0.52
+752,26-35,212487,100001-250000,Master,Construction,0.54,Retirement,33,0.12
+753,46-55,49975,25001-50000,Associate,Manufacturing,0.19,Home Purchase,5,0.33
+754,56-65,14867,0-25000,Associate,Education,0.36,Retirement,11,0.7
+755,56-65,4711,0-25000,Associate,Retail,0.12,Home Purchase,5,0.29
+756,36-45,31815,25001-50000,Bachelor,Technology,0.39,Income Generation,15,0.26
+757,26-35,52062,50001-100000,Associate,Finance,0.42,Home Purchase,3,0.42
+758,18-25,11956,0-25000,High School,Manufacturing,0.24,Income Generation,18,0.43
+759,46-55,23202,0-25000,High School,Government,0.35,Education,9,0.23
+760,66+,173685,100001-250000,Associate,Education,0.34,Retirement,9,0.52
+761,46-55,70890,50001-100000,Bachelor,Education,0.43,Home Purchase,10,0.41
+762,66+,21138,0-25000,Associate,Manufacturing,0.24,Retirement,8,0.35
+763,56-65,10439,0-25000,Associate,Education,0.34,Retirement,11,0.43
+764,26-35,18381,0-25000,Associate,Construction,0.63,Wealth Building,20,0.6
+765,36-45,16185,0-25000,PhD,Retail,0.32,Education,8,0.53
+766,66+,87733,50001-100000,Master,Healthcare,0.46,Wealth Building,13,0.68
+767,26-35,24696,0-25000,High School,Government,0.45,Retirement,32,0.34
+768,26-35,51920,50001-100000,Master,Technology,0.59,Retirement,33,0.53
+769,18-25,129047,100001-250000,Bachelor,Technology,0.8,Education,7,0.37
+770,46-55,29850,25001-50000,Master,Agriculture,0.36,Retirement,13,0.51
+771,56-65,2350195,1000001-5000000,Master,Technology,0.65,Education,15,0.51
+772,66+,54925,50001-100000,High School,Technology,0.19,Retirement,8,0.5
+773,56-65,30047,25001-50000,High School,Technology,0.49,Home Purchase,6,0.54
+774,56-65,5380,0-25000,Master,Retail,0.14,Retirement,8,0.27
+775,56-65,15605,0-25000,High School,Manufacturing,0.28,Home Purchase,8,0.34
+776,26-35,21254,0-25000,Bachelor,Education,0.37,Retirement,32,0.51
+777,66+,8157,0-25000,High School,Healthcare,0.1,Retirement,7,0.31
+778,36-45,75685,50001-100000,Associate,Government,0.54,Retirement,20,0.52
+779,18-25,101,0-25000,Associate,Government,0.5,Income Generation,17,0.23
+780,66+,10884,0-25000,High School,Technology,0.24,Retirement,4,0.15
+781,66+,11539,0-25000,Associate,Retail,0.19,Wealth Building,14,0.57
+782,18-25,16487,0-25000,High School,Healthcare,0.31,Home Purchase,7,0.56
+783,36-45,36555,25001-50000,Associate,Education,0.74,Wealth Building,25,0.13
+784,26-35,51359,50001-100000,Bachelor,Healthcare,0.7,Retirement,31,0.26
+785,56-65,12379,0-25000,Master,Construction,0.1,Home Purchase,8,0.66
+786,36-45,34053,25001-50000,High School,Education,0.31,Education,14,0.45
+787,36-45,29923,25001-50000,Associate,Manufacturing,0.26,Retirement,15,0.43
+788,26-35,132358,100001-250000,Bachelor,Healthcare,0.42,Retirement,35,0.62
+789,36-45,997842,250001-1000000,PhD,Technology,0.53,Retirement,20,0.1
+790,66+,38079,25001-50000,High School,Healthcare,0.19,Home Purchase,8,0.54
+791,26-35,165542,100001-250000,Master,Healthcare,0.28,Home Purchase,5,0.1
+792,36-45,29542,25001-50000,Bachelor,Education,0.51,Education,11,0.67
+793,66+,277706,250001-1000000,Bachelor,Education,0.38,Retirement,8,0.1
+794,18-25,69225,50001-100000,Master,Technology,0.64,Wealth Building,26,0.39
+795,18-25,21295,0-25000,Associate,Entertainment,0.56,Wealth Building,13,0.69
+796,46-55,53475,50001-100000,Bachelor,Manufacturing,0.69,Retirement,14,0.61
+797,18-25,2200,0-25000,Associate,Healthcare,0.38,Home Purchase,10,0.12
+798,66+,15850,0-25000,Bachelor,Entertainment,0.34,Wealth Building,15,0.55
+799,26-35,62112,50001-100000,Bachelor,Healthcare,0.51,Retirement,29,0.34
+800,46-55,74074,50001-100000,Associate,Retail,0.22,Education,9,0.37
+801,18-25,9920,0-25000,Associate,Retail,0.35,Education,12,0.68
+802,26-35,5187,0-25000,Bachelor,Retail,0.34,Education,7,0.56
+803,36-45,72236,50001-100000,Master,Technology,0.68,Income Generation,12,0.7
+804,46-55,40459,25001-50000,Associate,Retail,0.38,Retirement,19,0.63
+805,18-25,76462,50001-100000,High School,Retail,0.33,Home Purchase,8,0.7
+806,56-65,5701,0-25000,High School,Agriculture,0.42,Education,18,0.32
+807,46-55,20886,0-25000,High School,Manufacturing,0.33,Retirement,16,0.31
+808,18-25,93822,50001-100000,High School,Technology,0.66,Education,13,0.39
+809,36-45,81047,50001-100000,Associate,Entertainment,0.4,Wealth Building,28,0.34
+810,46-55,19709,0-25000,High School,Entertainment,0.1,Education,6,0.61
+811,46-55,17511,0-25000,Bachelor,Construction,0.37,Retirement,19,0.41
+812,18-25,982,0-25000,High School,Education,0.32,Income Generation,11,0.43
+813,56-65,889634,250001-1000000,Master,Technology,0.46,Retirement,12,0.46
+814,36-45,1166,0-25000,High School,Manufacturing,0.37,Wealth Building,17,0.87
+815,46-55,37432,25001-50000,Bachelor,Manufacturing,0.47,Education,6,0.29
+816,46-55,2542282,1000001-5000000,Bachelor,Government,0.38,Retirement,18,0.13
+817,56-65,11457,0-25000,Bachelor,Agriculture,0.16,Wealth Building,15,0.35
+818,46-55,41218,25001-50000,Master,Entertainment,0.56,Education,17,0.55
+819,26-35,8766,0-25000,Associate,Healthcare,0.39,Income Generation,25,0.43
+820,18-25,17071,0-25000,Associate,Education,0.33,Retirement,42,0.57
+821,66+,16348,0-25000,High School,Retail,0.22,Education,5,0.39
+822,18-25,84898,50001-100000,Associate,Education,0.5,Home Purchase,7,0.6
+823,56-65,189377,100001-250000,Master,Retail,0.72,Home Purchase,7,0.33
+824,26-35,84008,50001-100000,PhD,Education,0.67,Wealth Building,18,0.26
+825,46-55,36061,25001-50000,High School,Healthcare,0.29,Wealth Building,29,0.27
+826,56-65,67336,50001-100000,Bachelor,Technology,0.25,Home Purchase,3,0.42
+827,36-45,244559,100001-250000,Associate,Technology,0.55,Wealth Building,14,0.27
+828,36-45,112998,100001-250000,Master,Technology,0.48,Education,16,0.55
+829,26-35,7690,0-25000,High School,Retail,0.45,Education,18,0.64
+830,26-35,68553,50001-100000,Associate,Government,0.42,Wealth Building,25,0.56
+831,18-25,12068,0-25000,Bachelor,Construction,0.68,Wealth Building,26,0.75
+832,56-65,647243,250001-1000000,High School,Finance,0.51,Home Purchase,9,0.31
+833,46-55,113483,100001-250000,Master,Finance,0.37,Home Purchase,8,0.1
+834,36-45,39937,25001-50000,PhD,Retail,0.12,Education,10,0.47
+835,46-55,40865,25001-50000,Bachelor,Education,0.49,Retirement,13,0.57
+836,46-55,59054,50001-100000,Bachelor,Finance,0.24,Home Purchase,10,0.55
+837,18-25,219032,100001-250000,Associate,Technology,0.76,Wealth Building,14,0.12
+838,56-65,37718,25001-50000,Associate,Education,0.38,Retirement,14,0.48
+839,46-55,54834,50001-100000,Associate,Education,0.35,Wealth Building,19,0.62
+840,46-55,97429,50001-100000,Master,Construction,0.45,Home Purchase,8,0.37
+841,26-35,56351,50001-100000,Bachelor,Technology,0.51,Home Purchase,7,0.33
+842,18-25,4692,0-25000,Bachelor,Construction,0.62,Retirement,40,0.36
+843,36-45,8973,0-25000,High School,Finance,0.55,Home Purchase,6,0.55
+844,66+,16669,0-25000,High School,Construction,0.51,Wealth Building,5,0.48
+845,56-65,34236,25001-50000,Bachelor,Retail,0.37,Retirement,6,0.42
+846,66+,4483,0-25000,Associate,Healthcare,0.22,Wealth Building,6,0.41
+847,56-65,20664,0-25000,Associate,Healthcare,0.42,Retirement,15,0.73
+848,18-25,907757,250001-1000000,Associate,Healthcare,0.51,Wealth Building,25,0.23
+849,56-65,235347,100001-250000,Master,Technology,0.13,Retirement,5,0.32
+850,26-35,44134,25001-50000,Associate,Education,0.56,Home Purchase,8,0.47
+851,66+,24738,0-25000,High School,Retail,0.14,Retirement,4,0.43
+852,66+,15851,0-25000,Bachelor,Retail,0.32,Retirement,9,0.41
+853,36-45,39482,25001-50000,Associate,Technology,0.42,Home Purchase,7,0.43
+854,36-45,240513,100001-250000,Master,Entertainment,0.52,Home Purchase,3,0.44
+855,46-55,73115,50001-100000,Bachelor,Retail,0.41,Retirement,18,0.3
+856,66+,5288,0-25000,High School,Education,0.2,Retirement,3,0.19
+857,56-65,8927,0-25000,Bachelor,Manufacturing,0.18,Wealth Building,6,0.28
+858,36-45,98015,50001-100000,High School,Government,0.47,Wealth Building,22,0.2
+859,36-45,35608,25001-50000,Bachelor,Finance,0.42,Income Generation,28,0.44
+860,46-55,13314,0-25000,High School,Construction,0.36,Retirement,16,0.6
+861,36-45,51632,50001-100000,Associate,Finance,0.49,Education,6,0.27
+862,46-55,228402,100001-250000,Associate,Healthcare,0.59,Wealth Building,17,0.13
+863,36-45,49266,25001-50000,Associate,Finance,0.45,Retirement,23,0.62
+864,26-35,46366,25001-50000,Bachelor,Education,0.54,Wealth Building,13,0.43
+865,18-25,446,0-25000,Associate,Finance,0.3,Retirement,42,0.48
+866,56-65,9641,0-25000,Bachelor,Manufacturing,0.1,Home Purchase,5,0.33
+867,46-55,197322,100001-250000,Bachelor,Healthcare,0.8,Retirement,17,0.13
+868,66+,2197,0-25000,High School,Government,0.16,Home Purchase,3,0.58
+869,46-55,20851,0-25000,High School,Retail,0.5,Wealth Building,23,0.53
+870,56-65,76429,50001-100000,Bachelor,Manufacturing,0.17,Retirement,9,0.21
+871,46-55,17115,0-25000,Associate,Manufacturing,0.53,Retirement,20,0.63
+872,66+,7596,0-25000,High School,Entertainment,0.14,Wealth Building,10,0.46
+873,26-35,49904,25001-50000,Bachelor,Finance,0.43,Education,10,0.52
+874,66+,143547,100001-250000,Master,Finance,0.53,Home Purchase,4,0.38
+875,56-65,25829,25001-50000,Master,Government,0.28,Home Purchase,9,0.1
+876,46-55,1821397,1000001-5000000,Master,Technology,0.41,Education,13,0.53
+877,56-65,9009,0-25000,High School,Agriculture,0.37,Retirement,5,0.5
+878,56-65,243023,100001-250000,High School,Technology,0.47,Wealth Building,7,0.17
+879,18-25,70594,50001-100000,Bachelor,Agriculture,0.35,Retirement,37,0.65
+880,18-25,791423,250001-1000000,Master,Healthcare,0.64,Retirement,37,0.36
+881,46-55,34029,25001-50000,Bachelor,Education,0.61,Income Generation,19,0.36
+882,56-65,43618,25001-50000,High School,Construction,0.23,Education,5,0.77
+883,36-45,12272,0-25000,Bachelor,Construction,0.26,Income Generation,16,0.74
+884,46-55,37430,25001-50000,Associate,Technology,0.32,Retirement,12,0.43
+885,36-45,36915,25001-50000,Bachelor,Education,0.64,Retirement,21,0.24
+886,36-45,2819714,1000001-5000000,Master,Education,0.26,Home Purchase,4,0.25
+887,18-25,8547,0-25000,High School,Retail,0.41,Home Purchase,9,0.9
+888,46-55,28428,25001-50000,Master,Technology,0.37,Home Purchase,5,0.6
+889,46-55,31101,25001-50000,Bachelor,Manufacturing,0.47,Wealth Building,25,0.57
+890,36-45,36072,25001-50000,Bachelor,Technology,0.58,Income Generation,26,0.27
+891,36-45,18923,0-25000,High School,Retail,0.47,Education,6,0.29
+892,46-55,220249,100001-250000,Master,Finance,0.34,Education,8,0.51
+893,46-55,60102,50001-100000,Master,Finance,0.4,Home Purchase,6,0.69
+894,46-55,125120,100001-250000,Bachelor,Entertainment,0.38,Retirement,19,0.32
+895,66+,49263,25001-50000,High School,Entertainment,0.16,Education,18,0.42
+896,18-25,16382,0-25000,High School,Retail,0.38,Education,9,0.34
+897,18-25,13819,0-25000,High School,Retail,0.35,Wealth Building,22,0.39
+898,18-25,39900,25001-50000,Bachelor,Retail,0.52,Education,6,0.58
+899,46-55,37217,25001-50000,Bachelor,Government,0.24,Wealth Building,12,0.31
+900,36-45,868821,250001-1000000,Master,Finance,0.67,Home Purchase,4,0.48
+901,56-65,19638,0-25000,High School,Manufacturing,0.1,Home Purchase,7,0.46
+902,18-25,45840,25001-50000,High School,Retail,0.53,Retirement,36,0.34
+903,36-45,34002,25001-50000,Bachelor,Manufacturing,0.46,Education,7,0.55
+904,46-55,126509,100001-250000,PhD,Technology,0.42,Income Generation,18,0.57
+905,66+,14202,0-25000,Associate,Retail,0.31,Wealth Building,5,0.44
+906,36-45,214543,100001-250000,Master,Technology,0.48,Education,15,0.1
+907,26-35,68008,50001-100000,Bachelor,Agriculture,0.44,Retirement,28,0.24
+908,46-55,80189,50001-100000,Bachelor,Finance,0.1,Retirement,15,0.33
+909,36-45,49333,25001-50000,Bachelor,Healthcare,0.39,Wealth Building,28,0.47
+910,26-35,17353,0-25000,High School,Manufacturing,0.5,Home Purchase,8,0.53
+911,46-55,174420,100001-250000,Master,Technology,0.61,Retirement,13,0.25
+912,46-55,205151,100001-250000,Bachelor,Technology,0.56,Wealth Building,30,0.25
+913,36-45,38238,25001-50000,Bachelor,Government,0.27,Retirement,15,0.46
+914,46-55,30645,25001-50000,High School,Manufacturing,0.33,Retirement,19,0.27
+915,46-55,27639,25001-50000,Bachelor,Construction,0.33,Home Purchase,4,0.57
+916,56-65,41756,25001-50000,Master,Healthcare,0.1,Retirement,10,0.42
+917,46-55,32927,25001-50000,PhD,Education,0.15,Education,8,0.19
+918,56-65,1059,0-25000,High School,Retail,0.29,Wealth Building,9,0.71
+919,46-55,89779,50001-100000,Bachelor,Technology,0.39,Retirement,10,0.28
+920,36-45,46288,25001-50000,Bachelor,Technology,0.54,Wealth Building,21,0.42
+921,36-45,756034,250001-1000000,Associate,Finance,0.47,Retirement,22,0.22
+922,46-55,9020,0-25000,Associate,Healthcare,0.29,Education,16,0.26
+923,46-55,39414,25001-50000,Associate,Government,0.13,Wealth Building,18,0.49
+924,18-25,9927,0-25000,High School,Manufacturing,0.52,Home Purchase,5,0.54
+925,56-65,37386,25001-50000,Bachelor,Healthcare,0.34,Wealth Building,5,0.5
+926,18-25,6764,0-25000,High School,Government,0.71,Education,14,0.65
+927,26-35,6636,0-25000,High School,Retail,0.69,Retirement,33,0.24
+928,66+,8390,0-25000,High School,Construction,0.37,Wealth Building,7,0.51
+929,66+,2086,0-25000,High School,Manufacturing,0.15,Wealth Building,12,0.48
+930,56-65,183587,100001-250000,Associate,Healthcare,0.33,Retirement,8,0.39
+931,66+,14082,0-25000,High School,Construction,0.34,Wealth Building,14,0.39
+932,18-25,20680,0-25000,Associate,Retail,0.68,Wealth Building,17,0.37
+933,36-45,45511,25001-50000,PhD,Construction,0.45,Income Generation,25,0.45
+934,26-35,179860,100001-250000,PhD,Healthcare,0.81,Retirement,28,0.2
+935,36-45,42381,25001-50000,Bachelor,Construction,0.21,Education,17,0.42
+936,18-25,21711,0-25000,Master,Agriculture,0.72,Wealth Building,18,0.41
+937,46-55,568367,250001-1000000,Bachelor,Finance,0.56,Education,11,0.23
+938,66+,14971,0-25000,High School,Government,0.1,Retirement,3,0.28
+939,46-55,43350,25001-50000,Bachelor,Manufacturing,0.37,Retirement,15,0.9
+940,46-55,941451,250001-1000000,PhD,Finance,0.48,Retirement,14,0.32
+941,18-25,15461,0-25000,Associate,Manufacturing,0.63,Retirement,44,0.44
+942,26-35,8035,0-25000,Associate,Retail,0.54,Wealth Building,14,0.58
+943,66+,182304,100001-250000,Bachelor,Education,0.4,Education,12,0.31
+944,36-45,2086434,1000001-5000000,Master,Technology,0.35,Education,17,0.1
+945,46-55,787146,250001-1000000,Master,Agriculture,0.35,Retirement,20,0.1
+946,66+,5184,0-25000,Bachelor,Healthcare,0.55,Income Generation,6,0.62
+947,66+,14787,0-25000,PhD,Finance,0.24,Home Purchase,9,0.67
+948,66+,20437,0-25000,High School,Education,0.22,Retirement,8,0.52
+949,66+,18823,0-25000,Bachelor,Government,0.29,Retirement,5,0.28
+950,56-65,291370,250001-1000000,Master,Entertainment,0.33,Retirement,8,0.21
+951,66+,7118,0-25000,High School,Construction,0.23,Wealth Building,14,0.59
+952,56-65,18949,0-25000,High School,Government,0.11,Home Purchase,9,0.62
+953,66+,3669,0-25000,High School,Manufacturing,0.1,Retirement,7,0.65
+954,36-45,178826,100001-250000,Master,Finance,0.49,Home Purchase,3,0.38
+955,36-45,69208,50001-100000,Bachelor,Healthcare,0.55,Wealth Building,13,0.27
+956,46-55,33690,25001-50000,High School,Technology,0.14,Wealth Building,14,0.37
+957,26-35,30183,25001-50000,Associate,Healthcare,0.45,Income Generation,24,0.46
+958,18-25,91737,50001-100000,Bachelor,Entertainment,0.46,Home Purchase,4,0.38
+959,26-35,151456,100001-250000,Master,Manufacturing,0.26,Wealth Building,22,0.2
+960,18-25,8213,0-25000,Associate,Manufacturing,0.52,Wealth Building,14,0.43
+961,66+,24130,0-25000,High School,Construction,0.22,Retirement,3,0.59
+962,36-45,43747,25001-50000,Master,Healthcare,0.43,Education,15,0.1
+963,66+,15969,0-25000,High School,Healthcare,0.1,Education,13,0.38
+964,26-35,28642,25001-50000,Bachelor,Technology,0.42,Home Purchase,5,0.1
+965,26-35,1817378,1000001-5000000,Master,Education,0.26,Home Purchase,3,0.37
+966,18-25,17395,0-25000,High School,Retail,0.75,Retirement,43,0.63
+967,36-45,670346,250001-1000000,PhD,Construction,0.7,Retirement,15,0.35
+968,66+,88928,50001-100000,High School,Education,0.64,Income Generation,8,0.37
+969,26-35,44380,25001-50000,Master,Technology,0.66,Wealth Building,13,0.59
+970,36-45,63490,50001-100000,Bachelor,Government,0.4,Home Purchase,6,0.46
+971,56-65,24343,0-25000,High School,Construction,0.53,Wealth Building,5,0.22
+972,36-45,15287,0-25000,High School,Government,0.58,Retirement,16,0.5
+973,46-55,26857,25001-50000,Master,Healthcare,0.48,Retirement,15,0.32
+974,18-25,1348519,1000001-5000000,Master,Healthcare,0.64,Education,6,0.24
+975,36-45,89756,50001-100000,Master,Finance,0.53,Wealth Building,13,0.42
+976,46-55,194556,100001-250000,Master,Finance,0.72,Retirement,17,0.56
+977,56-65,38065,25001-50000,Bachelor,Government,0.38,Home Purchase,8,0.74
+978,46-55,166458,100001-250000,Master,Healthcare,0.6,Wealth Building,20,0.1
+979,56-65,17933,0-25000,Associate,Government,0.4,Home Purchase,8,0.42
+980,36-45,159657,100001-250000,Bachelor,Government,0.29,Home Purchase,5,0.43
+981,46-55,227256,100001-250000,Master,Government,0.38,Home Purchase,7,0.49
+982,18-25,47795,25001-50000,High School,Retail,0.62,Education,11,0.3
+983,46-55,177048,100001-250000,PhD,Healthcare,0.36,Income Generation,10,0.34
+984,56-65,2029080,1000001-5000000,Bachelor,Manufacturing,0.27,Income Generation,14,0.24
+985,26-35,87231,50001-100000,Associate,Education,0.43,Income Generation,22,0.62
+986,56-65,4369814,1000001-5000000,Bachelor,Healthcare,0.55,Home Purchase,5,0.1
+987,46-55,85277,50001-100000,High School,Construction,0.39,Wealth Building,17,0.6
+988,56-65,86312,50001-100000,Associate,Healthcare,0.5,Education,11,0.18
+989,36-45,72781,50001-100000,Bachelor,Technology,0.38,Wealth Building,10,0.51
+990,66+,58740,50001-100000,Associate,Education,0.32,Education,17,0.2
+991,56-65,70609,50001-100000,PhD,Technology,0.53,Wealth Building,6,0.46
+992,26-35,98009,50001-100000,PhD,Government,0.61,Retirement,34,0.56
+993,56-65,199954,100001-250000,Associate,Healthcare,0.2,Wealth Building,9,0.35
+994,36-45,32427,25001-50000,Bachelor,Technology,0.42,Retirement,15,0.41
+995,18-25,804824,250001-1000000,Bachelor,Healthcare,0.77,Education,7,0.1
+996,66+,7155,0-25000,High School,Retail,0.11,Retirement,5,0.51
+997,18-25,45385,25001-50000,Bachelor,Agriculture,0.47,Education,14,0.5
+998,26-35,44776,25001-50000,Bachelor,Finance,0.45,Wealth Building,24,0.3
+999,18-25,16081,0-25000,High School,Manufacturing,0.83,Retirement,36,0.56
+1000,46-55,43845,25001-50000,Bachelor,Government,0.44,Retirement,14,0.65

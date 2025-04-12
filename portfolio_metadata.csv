@@ -1,0 +1,51 @@
+portfolio_id,name,risk_level,stocks_allocation,bonds_allocation,real_estate_allocation,commodities_allocation,crypto_allocation,cash_allocation
+1,Portfolio 1: Growth Variant,Medium-High,0.5933,0.2549,0.101,0.0508,0.0,0
+2,Portfolio 2: Ultra Conservative Variant,Very Low,0.1434,0.5612,0.2601,0.0112,0.0241,0
+3,Portfolio 3: Ultra Conservative Variant,Very Low,0.3265,0.3475,0.2915,0.0,0.0346,0
+4,Portfolio 4: Speculative Variant,Very High,0.8934,0.0,0.0015,0.0026,0.1024,0
+5,Portfolio 5: Ultra Conservative Variant,Very Low,0.0,0.5218,0.4499,0.0,0.0283,0
+6,Portfolio 6: Conservative Variant,Low,0.2948,0.6093,0.0959,0.0,0.0,0
+7,Portfolio 7: Ultra Conservative Variant,Very Low,0.0,0.3858,0.6142,0.0,0.0,0
+8,Portfolio 8: Growth Variant,Medium-High,0.6256,0.2276,0.0674,0.0583,0.0212,0
+9,Portfolio 9: Conservative Variant,Low,0.2148,0.6026,0.1584,0.0055,0.0188,0
+10,Portfolio 10: Ultra Conservative Variant,Very Low,0.4369,0.5453,0.0178,0.0,0.0,0
+11,Portfolio 11: Conservative Variant,Low,0.2735,0.5908,0.1357,0.0,0.0,0
+12,Portfolio 12: Ultra Conservative Variant,Very Low,0.1165,0.5657,0.2977,0.0,0.0201,0
+13,Portfolio 13: Aggressive Growth Variant,High,0.6487,0.1235,0.1088,0.0564,0.0625,0
+14,Portfolio 14: Aggressive Growth Variant,High,0.6592,0.1484,0.1142,0.0208,0.0575,0
+15,Portfolio 15: Moderate Variant,Medium,0.4695,0.3569,0.1285,0.0357,0.0094,0
+16,Portfolio 16: Growth Variant,Medium-High,0.5824,0.2831,0.0901,0.0397,0.0048,0
+17,Portfolio 17: Conservative Variant,Low,0.2744,0.6097,0.0977,0.0182,0.0,0
+18,Portfolio 18: Growth Variant,Medium-High,0.6141,0.1799,0.1678,0.037,0.0013,0
+19,Portfolio 19: Growth Variant,Medium-High,0.625,0.18,0.1317,0.0576,0.0057,0
+20,Portfolio 20: Moderate Variant,Medium,0.3662,0.421,0.1541,0.0586,0.0,0
+21,Portfolio 21: Conservative Variant,Low,0.2183,0.617,0.1647,0.0,0.0,0
+22,Portfolio 22: Conservative Variant,Low,0.2867,0.5775,0.1278,0.004,0.0039,0
+23,Portfolio 23: Growth Variant,Medium-High,0.6333,0.2311,0.0836,0.0521,0.0,0
+24,Portfolio 24: Speculative Variant,Very High,0.7724,0.0,0.0865,0.0666,0.0745,0
+25,Portfolio 25: Growth Variant,Medium-High,0.5725,0.2781,0.074,0.0755,0.0,0
+26,Portfolio 26: Growth Variant,Medium-High,0.6301,0.2318,0.086,0.0476,0.0045,0
+27,Portfolio 27: Growth Variant,Medium-High,0.5681,0.2558,0.1132,0.0628,0.0002,0
+28,Portfolio 28: Conservative Variant,Low,0.2825,0.544,0.132,0.0414,0.0,0
+29,Portfolio 29: Speculative Variant,Very High,0.808,0.0226,0.0178,0.051,0.1005,0
+30,Portfolio 30: Moderate Variant,Medium,0.4109,0.4172,0.092,0.066,0.014,0
+31,Portfolio 31: Conservative Variant,Low,0.3332,0.5886,0.0677,0.0103,0.0002,0
+32,Portfolio 32: Growth Variant,Medium-High,0.5467,0.3429,0.0834,0.0195,0.0074,0
+33,Portfolio 33: Speculative Variant,Very High,0.7838,0.0,0.0744,0.0617,0.0801,0
+34,Portfolio 34: Moderate Variant,Medium,0.4025,0.4161,0.1256,0.0557,0.0,0
+35,Portfolio 35: Growth Variant,Medium-High,0.5368,0.3204,0.1382,0.0046,0.0,0
+36,Portfolio 36: Conservative Variant,Low,0.2322,0.6967,0.0712,0.0,0.0,0
+37,Portfolio 37: Moderate Variant,Medium,0.3822,0.4849,0.0652,0.0548,0.0129,0
+38,Portfolio 38: Speculative Variant,Very High,0.7996,0.0,0.0824,0.0277,0.0903,0
+39,Portfolio 39: Speculative Variant,Very High,0.7938,0.0174,0.0355,0.0552,0.0981,0
+40,Portfolio 40: Ultra Conservative Variant,Very Low,0.1992,0.5333,0.2675,0.0,0.0,0
+41,Portfolio 41: Speculative Variant,Very High,0.7698,0.0404,0.0632,0.0618,0.0647,0
+42,Portfolio 42: Growth Variant,Medium-High,0.622,0.1699,0.1405,0.0676,0.0,0
+43,Portfolio 43: Moderate Variant,Medium,0.4164,0.4326,0.0782,0.0581,0.0148,0
+44,Portfolio 44: Moderate Variant,Medium,0.3862,0.4407,0.106,0.0592,0.008,0
+45,Portfolio 45: Ultra Conservative Variant,Very Low,0.113,0.6854,0.0794,0.1223,0.0,0
+46,Portfolio 46: Growth Variant,Medium-High,0.6136,0.2192,0.1173,0.0361,0.0138,0
+47,Portfolio 47: Moderate Variant,Medium,0.4261,0.429,0.0626,0.0822,0.0,0
+48,Portfolio 48: Ultra Conservative Variant,Very Low,0.2894,0.3538,0.3224,0.0,0.0343,0
+49,Portfolio 49: Aggressive Growth Variant,High,0.6257,0.1785,0.1011,0.0375,0.0572,0
+50,Portfolio 50: Growth Variant,Medium-High,0.558,0.3055,0.061,0.0662,0.0094,0
